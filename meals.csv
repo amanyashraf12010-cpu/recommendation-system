@@ -1,0 +1,1001 @@
+meal_id,restaurant_id,name,ingredients,category,price,expiry,discount,tags,description
+m1,r80,Meal 1,"rice,fish,lettuce",dessert,57.48,2026-04-13T22:35:25.041024,1,glutenfree,Delicious glutenfree meal with rice fish lettuce.
+m2,r56,Meal 2,"garlic,egg,beef",drink,40.58,2026-04-17T12:35:25.041083,1,"dessert,halal,vegetarian",Delicious dessert halal vegetarian meal with garlic egg beef.
+m3,r42,Meal 3,"cheese,lettuce,beef",main,143.39,2026-04-16T18:35:25.041117,1,"vegetarian,kidfriendly,glutenfree",Delicious vegetarian kidfriendly glutenfree meal with cheese lettuce beef.
+m4,r42,Meal 4,"tomato,rice,onion",main,156.27,2026-04-18T09:35:25.041145,0,"vegan,vegetarian",Delicious vegan vegetarian meal with tomato rice onion.
+m5,r58,Meal 5,"onion,fish,tomato",dessert,73.95,2026-04-14T16:35:25.041171,0,"seafood,lowcal,glutenfree",Delicious seafood lowcal glutenfree meal with onion fish tomato.
+m6,r56,Meal 6,"chicken,onion,potato",starter,173.45,2026-04-15T17:35:25.041198,0,"dessert,vegetarian,seafood",Delicious dessert vegetarian seafood meal with chicken onion potato.
+m7,r48,Meal 7,"potato,bread,beef",dessert,175.82,2026-04-18T04:35:25.041222,0,"vegan,glutenfree,dessert",Delicious vegan glutenfree dessert meal with potato bread beef.
+m8,r56,Meal 8,"lettuce,egg,garlic",starter,139.25,2026-04-15T21:35:25.041246,1,"lowcal,dessert,kidfriendly",Delicious lowcal dessert kidfriendly meal with lettuce egg garlic.
+m9,r18,Meal 9,"lettuce,bread,egg",dessert,199.54,2026-04-14T09:35:25.041269,0,glutenfree,Delicious glutenfree meal with lettuce bread egg.
+m10,r18,Meal 10,"garlic,chicken,rice",drink,138.43,2026-04-17T10:35:25.041292,0,vegetarian,Delicious vegetarian meal with garlic chicken rice.
+m11,r11,Meal 11,"fish,onion,lettuce",starter,101.79,2026-04-16T21:35:25.041314,1,lowcal,Delicious lowcal meal with fish onion lettuce.
+m12,r71,Meal 12,"tomato,rice,lettuce",main,124.03,2026-04-16T19:35:25.041337,0,"lowcal,dessert",Delicious lowcal dessert meal with tomato rice lettuce.
+m13,r65,Meal 13,"chicken,egg,onion",dessert,40.37,2026-04-16T03:35:25.041361,1,"lowcal,dessert",Delicious lowcal dessert meal with chicken egg onion.
+m14,r11,Meal 14,"cheese,fish,potato",main,64.14,2026-04-14T00:35:25.041399,0,glutenfree,Delicious glutenfree meal with cheese fish potato.
+m15,r70,Meal 15,"potato,chicken,fish",drink,123.31,2026-04-16T00:35:25.041423,0,"seafood,vegan,spicy",Delicious seafood vegan spicy meal with potato chicken fish.
+m16,r54,Meal 16,"rice,chicken,onion",dessert,150.85,2026-04-17T13:35:25.041446,0,"seafood,glutenfree",Delicious seafood glutenfree meal with rice chicken onion.
+m17,r8,Meal 17,"chicken,garlic,cheese",main,71.63,2026-04-17T21:35:25.041468,0,"kidfriendly,spicy,seafood",Delicious kidfriendly spicy seafood meal with chicken garlic cheese.
+m18,r17,Meal 18,"rice,onion,cheese",dessert,22.56,2026-04-15T01:35:25.041492,0,"vegetarian,seafood,spicy",Delicious vegetarian seafood spicy meal with rice onion cheese.
+m19,r78,Meal 19,"garlic,fish,bread",starter,67.03,2026-04-17T21:35:25.041514,0,spicy,Delicious spicy meal with garlic fish bread.
+m20,r63,Meal 20,"chicken,bread,beef",starter,170.77,2026-04-14T08:35:25.041537,1,glutenfree,Delicious glutenfree meal with chicken bread beef.
+m21,r50,Meal 21,"egg,garlic,rice",dessert,29.78,2026-04-14T16:35:25.041560,0,kidfriendly,Delicious kidfriendly meal with egg garlic rice.
+m22,r15,Meal 22,"fish,lettuce,egg",drink,154.31,2026-04-15T04:35:25.041588,0,spicy,Delicious spicy meal with fish lettuce egg.
+m23,r49,Meal 23,"rice,potato,lettuce",dessert,186.9,2026-04-13T15:35:25.041610,1,"lowcal,kidfriendly,spicy",Delicious lowcal kidfriendly spicy meal with rice potato lettuce.
+m24,r49,Meal 24,"potato,garlic,bread",drink,129.89,2026-04-18T02:35:25.041633,0,"dessert,vegan,kidfriendly",Delicious dessert vegan kidfriendly meal with potato garlic bread.
+m25,r43,Meal 25,"cheese,garlic,onion",drink,159.17,2026-04-15T16:35:25.041660,0,"seafood,vegetarian",Delicious seafood vegetarian meal with cheese garlic onion.
+m26,r76,Meal 26,"bread,garlic,rice",main,141.1,2026-04-15T06:35:25.041688,0,glutenfree,Delicious glutenfree meal with bread garlic rice.
+m27,r2,Meal 27,"garlic,fish,bread",dessert,65.34,2026-04-14T18:35:25.041713,0,"vegetarian,glutenfree",Delicious vegetarian glutenfree meal with garlic fish bread.
+m28,r4,Meal 28,"garlic,tomato,onion",main,147.45,2026-04-16T23:35:25.041736,0,"vegetarian,vegan,seafood",Delicious vegetarian vegan seafood meal with garlic tomato onion.
+m29,r12,Meal 29,"garlic,onion,rice",main,145.22,2026-04-18T08:35:25.041759,0,"spicy,lowcal,dessert",Delicious spicy lowcal dessert meal with garlic onion rice.
+m30,r38,Meal 30,"cheese,lettuce,bread",starter,160.53,2026-04-14T22:35:25.041783,0,"vegetarian,kidfriendly",Delicious vegetarian kidfriendly meal with cheese lettuce bread.
+m31,r8,Meal 31,"chicken,cheese,garlic",drink,32.49,2026-04-14T12:35:25.041805,0,"lowcal,dessert",Delicious lowcal dessert meal with chicken cheese garlic.
+m32,r79,Meal 32,"beef,rice,potato",drink,59.31,2026-04-17T16:35:25.041827,0,"spicy,kidfriendly",Delicious spicy kidfriendly meal with beef rice potato.
+m33,r57,Meal 33,"beef,egg,onion",dessert,159.9,2026-04-17T11:35:25.041848,0,"seafood,vegetarian,vegan",Delicious seafood vegetarian vegan meal with beef egg onion.
+m34,r64,Meal 34,"chicken,garlic,lettuce",starter,146.01,2026-04-15T00:35:25.041870,1,vegan,Delicious vegan meal with chicken garlic lettuce.
+m35,r74,Meal 35,"egg,fish,garlic",drink,171.93,2026-04-15T21:35:25.041891,0,glutenfree,Delicious glutenfree meal with egg fish garlic.
+m36,r70,Meal 36,"lettuce,fish,beef",dessert,80.02,2026-04-16T14:35:25.041912,0,vegan,Delicious vegan meal with lettuce fish beef.
+m37,r52,Meal 37,"bread,potato,egg",drink,156.88,2026-04-14T00:35:25.041952,0,vegetarian,Delicious vegetarian meal with bread potato egg.
+m38,r26,Meal 38,"chicken,lettuce,tomato",drink,181.36,2026-04-15T04:35:25.041974,0,glutenfree,Delicious glutenfree meal with chicken lettuce tomato.
+m39,r63,Meal 39,"egg,tomato,rice",starter,24.57,2026-04-13T18:35:25.041994,0,kidfriendly,Delicious kidfriendly meal with egg tomato rice.
+m40,r63,Meal 40,"fish,potato,egg",main,81.07,2026-04-13T16:35:25.042016,0,"vegetarian,seafood",Delicious vegetarian seafood meal with fish potato egg.
+m41,r6,Meal 41,"garlic,egg,potato",starter,153.39,2026-04-16T00:35:25.042041,0,"vegetarian,halal",Delicious vegetarian halal meal with garlic egg potato.
+m42,r10,Meal 42,"fish,garlic,chicken",main,63.68,2026-04-16T02:35:25.042063,0,spicy,Delicious spicy meal with fish garlic chicken.
+m43,r2,Meal 43,"cheese,beef,fish",starter,170.36,2026-04-16T20:35:25.042085,0,vegan,Delicious vegan meal with cheese beef fish.
+m44,r14,Meal 44,"onion,egg,tomato",starter,96.72,2026-04-13T22:35:25.042106,1,kidfriendly,Delicious kidfriendly meal with onion egg tomato.
+m45,r42,Meal 45,"rice,bread,tomato",main,126.76,2026-04-17T15:35:25.042127,0,glutenfree,Delicious glutenfree meal with rice bread tomato.
+m46,r9,Meal 46,"rice,lettuce,egg",dessert,119.61,2026-04-17T07:35:25.042148,1,seafood,Delicious seafood meal with rice lettuce egg.
+m47,r32,Meal 47,"garlic,onion,lettuce",starter,22.81,2026-04-17T17:35:25.042168,1,"vegan,spicy,glutenfree",Delicious vegan spicy glutenfree meal with garlic onion lettuce.
+m48,r11,Meal 48,"rice,beef,onion",dessert,94.92,2026-04-18T07:35:25.042190,1,vegan,Delicious vegan meal with rice beef onion.
+m49,r17,Meal 49,"garlic,cheese,potato",drink,63.07,2026-04-15T23:35:25.042212,0,spicy,Delicious spicy meal with garlic cheese potato.
+m50,r79,Meal 50,"fish,onion,beef",dessert,82.61,2026-04-16T22:35:25.042394,0,"vegan,spicy,dessert",Delicious vegan spicy dessert meal with fish onion beef.
+m51,r72,Meal 51,"beef,potato,egg",dessert,175.29,2026-04-16T21:35:25.042427,0,halal,Delicious halal meal with beef potato egg.
+m52,r60,Meal 52,"tomato,beef,rice",drink,109.55,2026-04-17T05:35:25.042451,0,"halal,seafood,vegan",Delicious halal seafood vegan meal with tomato beef rice.
+m53,r6,Meal 53,"cheese,tomato,lettuce",dessert,131.03,2026-04-14T22:35:25.042484,1,dessert,Delicious dessert meal with cheese tomato lettuce.
+m54,r6,Meal 54,"potato,rice,garlic",main,107.31,2026-04-17T18:35:25.042508,0,vegan,Delicious vegan meal with potato rice garlic.
+m55,r10,Meal 55,"onion,egg,bread",starter,154.48,2026-04-15T19:35:25.042529,0,kidfriendly,Delicious kidfriendly meal with onion egg bread.
+m56,r30,Meal 56,"tomato,beef,egg",drink,176.58,2026-04-17T12:35:25.042551,1,dessert,Delicious dessert meal with tomato beef egg.
+m57,r29,Meal 57,"onion,fish,chicken",drink,46.09,2026-04-18T07:35:25.042572,1,kidfriendly,Delicious kidfriendly meal with onion fish chicken.
+m58,r23,Meal 58,"fish,tomato,bread",starter,80.46,2026-04-15T00:35:25.042594,0,"dessert,spicy",Delicious dessert spicy meal with fish tomato bread.
+m59,r73,Meal 59,"rice,beef,fish",drink,50.82,2026-04-16T00:35:25.042616,0,seafood,Delicious seafood meal with rice beef fish.
+m60,r29,Meal 60,"onion,potato,tomato",drink,174.26,2026-04-14T01:35:25.042639,1,"spicy,glutenfree",Delicious spicy glutenfree meal with onion potato tomato.
+m61,r28,Meal 61,"chicken,lettuce,tomato",dessert,98.16,2026-04-14T21:35:25.042666,0,"kidfriendly,glutenfree,spicy",Delicious kidfriendly glutenfree spicy meal with chicken lettuce tomato.
+m62,r76,Meal 62,"lettuce,chicken,garlic",main,96.63,2026-04-16T02:35:25.042690,1,vegan,Delicious vegan meal with lettuce chicken garlic.
+m63,r62,Meal 63,"tomato,beef,potato",main,144.77,2026-04-17T14:35:25.042712,1,"vegetarian,kidfriendly,halal",Delicious vegetarian kidfriendly halal meal with tomato beef potato.
+m64,r28,Meal 64,"cheese,tomato,beef",drink,140.43,2026-04-13T16:35:25.042734,0,dessert,Delicious dessert meal with cheese tomato beef.
+m65,r59,Meal 65,"rice,lettuce,egg",dessert,132.83,2026-04-17T19:35:25.042757,0,"vegan,kidfriendly,halal",Delicious vegan kidfriendly halal meal with rice lettuce egg.
+m66,r10,Meal 66,"cheese,lettuce,egg",starter,161.78,2026-04-17T07:35:25.042782,0,"dessert,vegan",Delicious dessert vegan meal with cheese lettuce egg.
+m67,r80,Meal 67,"chicken,beef,lettuce",drink,131.44,2026-04-15T12:35:25.042805,0,"vegan,dessert",Delicious vegan dessert meal with chicken beef lettuce.
+m68,r47,Meal 68,"egg,beef,potato",starter,44.91,2026-04-17T08:35:25.042826,0,glutenfree,Delicious glutenfree meal with egg beef potato.
+m69,r31,Meal 69,"onion,tomato,garlic",dessert,181.63,2026-04-15T07:35:25.042850,1,"vegetarian,kidfriendly,dessert",Delicious vegetarian kidfriendly dessert meal with onion tomato garlic.
+m70,r36,Meal 70,"bread,egg,fish",main,104.63,2026-04-16T04:35:25.042883,0,vegetarian,Delicious vegetarian meal with bread egg fish.
+m71,r58,Meal 71,"fish,beef,garlic",starter,71.91,2026-04-15T16:35:25.042907,0,"dessert,vegetarian,kidfriendly",Delicious dessert vegetarian kidfriendly meal with fish beef garlic.
+m72,r14,Meal 72,"beef,rice,fish",starter,113.72,2026-04-14T09:35:25.042929,0,seafood,Delicious seafood meal with beef rice fish.
+m73,r38,Meal 73,"fish,bread,lettuce",main,72.47,2026-04-15T22:35:25.042951,0,"glutenfree,spicy",Delicious glutenfree spicy meal with fish bread lettuce.
+m74,r3,Meal 74,"garlic,bread,lettuce",dessert,138.04,2026-04-16T16:35:25.042972,0,glutenfree,Delicious glutenfree meal with garlic bread lettuce.
+m75,r63,Meal 75,"cheese,onion,rice",dessert,50.91,2026-04-18T08:35:25.042994,0,"glutenfree,kidfriendly,halal",Delicious glutenfree kidfriendly halal meal with cheese onion rice.
+m76,r30,Meal 76,"chicken,rice,bread",drink,192.12,2026-04-15T02:35:25.043016,0,"dessert,seafood",Delicious dessert seafood meal with chicken rice bread.
+m77,r69,Meal 77,"egg,garlic,rice",starter,41.05,2026-04-14T10:35:25.043038,0,"spicy,glutenfree",Delicious spicy glutenfree meal with egg garlic rice.
+m78,r74,Meal 78,"cheese,bread,rice",main,139.8,2026-04-14T16:35:25.043063,0,kidfriendly,Delicious kidfriendly meal with cheese bread rice.
+m79,r19,Meal 79,"potato,cheese,beef",main,92.82,2026-04-18T11:35:25.043085,1,"kidfriendly,spicy",Delicious kidfriendly spicy meal with potato cheese beef.
+m80,r19,Meal 80,"chicken,potato,garlic",dessert,105.3,2026-04-15T08:35:25.043115,0,"dessert,spicy",Delicious dessert spicy meal with chicken potato garlic.
+m81,r74,Meal 81,"egg,beef,fish",main,45.1,2026-04-18T09:35:25.043139,0,"spicy,kidfriendly,glutenfree",Delicious spicy kidfriendly glutenfree meal with egg beef fish.
+m82,r40,Meal 82,"onion,tomato,fish",main,78.75,2026-04-15T11:35:25.043168,0,lowcal,Delicious lowcal meal with onion tomato fish.
+m83,r75,Meal 83,"chicken,beef,potato",drink,141.87,2026-04-18T02:35:25.043191,0,"halal,seafood,vegetarian",Delicious halal seafood vegetarian meal with chicken beef potato.
+m84,r66,Meal 84,"bread,onion,garlic",main,183.52,2026-04-16T07:35:25.043214,0,"halal,kidfriendly",Delicious halal kidfriendly meal with bread onion garlic.
+m85,r51,Meal 85,"bread,lettuce,egg",dessert,82.09,2026-04-13T15:35:25.043235,0,lowcal,Delicious lowcal meal with bread lettuce egg.
+m86,r58,Meal 86,"fish,lettuce,egg",starter,165.02,2026-04-15T02:35:25.043259,1,"vegetarian,halal,dessert",Delicious vegetarian halal dessert meal with fish lettuce egg.
+m87,r54,Meal 87,"rice,tomato,cheese",dessert,31.9,2026-04-16T02:35:25.043282,1,vegetarian,Delicious vegetarian meal with rice tomato cheese.
+m88,r12,Meal 88,"garlic,cheese,lettuce",drink,147.84,2026-04-14T12:35:25.043305,0,lowcal,Delicious lowcal meal with garlic cheese lettuce.
+m89,r26,Meal 89,"cheese,potato,fish",dessert,170.23,2026-04-13T19:35:25.043327,0,lowcal,Delicious lowcal meal with cheese potato fish.
+m90,r64,Meal 90,"chicken,rice,cheese",drink,42.35,2026-04-15T04:35:25.043349,0,"kidfriendly,halal,vegan",Delicious kidfriendly halal vegan meal with chicken rice cheese.
+m91,r54,Meal 91,"egg,garlic,tomato",main,157.65,2026-04-13T17:35:25.043386,1,kidfriendly,Delicious kidfriendly meal with egg garlic tomato.
+m92,r9,Meal 92,"lettuce,cheese,fish",main,87.18,2026-04-17T06:35:25.043411,0,"dessert,kidfriendly,seafood",Delicious dessert kidfriendly seafood meal with lettuce cheese fish.
+m93,r34,Meal 93,"rice,bread,fish",starter,84.33,2026-04-18T06:35:25.043434,0,vegan,Delicious vegan meal with rice bread fish.
+m94,r35,Meal 94,"chicken,cheese,garlic",main,112.5,2026-04-16T09:35:25.043460,0,"lowcal,dessert",Delicious lowcal dessert meal with chicken cheese garlic.
+m95,r13,Meal 95,"bread,garlic,cheese",dessert,37.25,2026-04-15T00:35:25.043570,0,"spicy,dessert,lowcal",Delicious spicy dessert lowcal meal with bread garlic cheese.
+m96,r19,Meal 96,"potato,cheese,bread",drink,94.16,2026-04-17T17:35:25.043603,0,spicy,Delicious spicy meal with potato cheese bread.
+m97,r14,Meal 97,"potato,tomato,garlic",main,95.12,2026-04-17T19:35:25.043626,0,spicy,Delicious spicy meal with potato tomato garlic.
+m98,r15,Meal 98,"fish,bread,cheese",dessert,45.02,2026-04-17T06:35:25.043649,1,vegan,Delicious vegan meal with fish bread cheese.
+m99,r77,Meal 99,"cheese,chicken,beef",starter,174.23,2026-04-14T18:35:25.043671,0,"dessert,spicy,glutenfree",Delicious dessert spicy glutenfree meal with cheese chicken beef.
+m100,r30,Meal 100,"rice,beef,lettuce",main,33.99,2026-04-17T06:35:25.043718,1,"spicy,halal",Delicious spicy halal meal with rice beef lettuce.
+m101,r56,Meal 101,"beef,chicken,potato",main,104.43,2026-04-16T17:35:25.043759,0,halal,Delicious halal meal with beef chicken potato.
+m102,r6,Meal 102,"garlic,chicken,beef",main,185.62,2026-04-17T18:35:25.043780,0,seafood,Delicious seafood meal with garlic chicken beef.
+m103,r76,Meal 103,"garlic,bread,chicken",starter,172.26,2026-04-14T01:35:25.043800,0,spicy,Delicious spicy meal with garlic bread chicken.
+m104,r75,Meal 104,"potato,onion,tomato",main,37.84,2026-04-16T06:35:25.043822,0,"dessert,spicy",Delicious dessert spicy meal with potato onion tomato.
+m105,r68,Meal 105,"cheese,rice,potato",main,186.36,2026-04-13T14:35:25.043845,1,halal,Delicious halal meal with cheese rice potato.
+m106,r47,Meal 106,"beef,rice,bread",drink,58.57,2026-04-15T14:35:25.043874,0,"spicy,kidfriendly,dessert",Delicious spicy kidfriendly dessert meal with beef rice bread.
+m107,r53,Meal 107,"beef,fish,egg",starter,109.25,2026-04-16T08:35:25.043896,0,dessert,Delicious dessert meal with beef fish egg.
+m108,r37,Meal 108,"fish,beef,lettuce",drink,128.07,2026-04-15T02:35:25.043920,0,"vegan,vegetarian,spicy",Delicious vegan vegetarian spicy meal with fish beef lettuce.
+m109,r57,Meal 109,"lettuce,cheese,egg",main,181.06,2026-04-14T14:35:25.043945,1,glutenfree,Delicious glutenfree meal with lettuce cheese egg.
+m110,r48,Meal 110,"garlic,fish,beef",drink,114.08,2026-04-15T16:35:25.043971,0,vegan,Delicious vegan meal with garlic fish beef.
+m111,r16,Meal 111,"lettuce,onion,beef",starter,31.65,2026-04-17T12:35:25.043995,0,lowcal,Delicious lowcal meal with lettuce onion beef.
+m112,r44,Meal 112,"beef,tomato,lettuce",drink,70.13,2026-04-17T10:35:25.044019,0,lowcal,Delicious lowcal meal with beef tomato lettuce.
+m113,r52,Meal 113,"fish,potato,cheese",drink,39.45,2026-04-14T08:35:25.044044,0,"kidfriendly,lowcal",Delicious kidfriendly lowcal meal with fish potato cheese.
+m114,r63,Meal 114,"chicken,beef,egg",main,109.66,2026-04-18T00:35:25.044068,0,"halal,spicy",Delicious halal spicy meal with chicken beef egg.
+m115,r23,Meal 115,"cheese,onion,garlic",main,138.99,2026-04-14T02:35:25.044097,1,"dessert,spicy",Delicious dessert spicy meal with cheese onion garlic.
+m116,r60,Meal 116,"garlic,fish,egg",dessert,117.64,2026-04-16T06:35:25.044119,0,seafood,Delicious seafood meal with garlic fish egg.
+m117,r5,Meal 117,"fish,bread,lettuce",drink,26.48,2026-04-15T22:35:25.044145,0,"vegetarian,lowcal",Delicious vegetarian lowcal meal with fish bread lettuce.
+m118,r72,Meal 118,"lettuce,rice,cheese",drink,107.74,2026-04-17T09:35:25.044167,0,"seafood,spicy,halal",Delicious seafood spicy halal meal with lettuce rice cheese.
+m119,r73,Meal 119,"potato,rice,egg",drink,67.41,2026-04-13T21:35:25.044193,1,"kidfriendly,glutenfree,halal",Delicious kidfriendly glutenfree halal meal with potato rice egg.
+m120,r79,Meal 120,"chicken,egg,onion",starter,170.65,2026-04-13T19:35:25.044215,0,"dessert,seafood,spicy",Delicious dessert seafood spicy meal with chicken egg onion.
+m121,r75,Meal 121,"lettuce,beef,egg",dessert,94.15,2026-04-15T10:35:25.044237,0,dessert,Delicious dessert meal with lettuce beef egg.
+m122,r32,Meal 122,"garlic,cheese,onion",main,176.41,2026-04-14T00:35:25.044300,0,halal,Delicious halal meal with garlic cheese onion.
+m123,r44,Meal 123,"potato,bread,chicken",drink,122.25,2026-04-16T00:35:25.044331,1,vegan,Delicious vegan meal with potato bread chicken.
+m124,r35,Meal 124,"onion,chicken,bread",drink,78.04,2026-04-15T14:35:25.044395,0,kidfriendly,Delicious kidfriendly meal with onion chicken bread.
+m125,r63,Meal 125,"bread,fish,potato",dessert,49.99,2026-04-17T21:35:25.044436,0,halal,Delicious halal meal with bread fish potato.
+m126,r47,Meal 126,"garlic,beef,potato",dessert,67.73,2026-04-14T17:35:25.044460,0,"halal,kidfriendly",Delicious halal kidfriendly meal with garlic beef potato.
+m127,r74,Meal 127,"egg,onion,beef",dessert,69.21,2026-04-16T17:35:25.044555,1,"halal,vegetarian",Delicious halal vegetarian meal with egg onion beef.
+m128,r55,Meal 128,"beef,garlic,cheese",dessert,97.92,2026-04-16T06:35:25.044581,0,dessert,Delicious dessert meal with beef garlic cheese.
+m129,r26,Meal 129,"onion,potato,fish",starter,178.56,2026-04-17T03:35:25.044603,0,"lowcal,seafood",Delicious lowcal seafood meal with onion potato fish.
+m130,r74,Meal 130,"cheese,garlic,potato",drink,188.23,2026-04-17T21:35:25.044664,0,"halal,kidfriendly",Delicious halal kidfriendly meal with cheese garlic potato.
+m131,r67,Meal 131,"fish,rice,tomato",dessert,171.94,2026-04-14T09:35:25.044716,1,dessert,Delicious dessert meal with fish rice tomato.
+m132,r41,Meal 132,"lettuce,cheese,garlic",starter,66.16,2026-04-17T00:35:25.044745,0,halal,Delicious halal meal with lettuce cheese garlic.
+m133,r52,Meal 133,"rice,tomato,chicken",dessert,103.55,2026-04-14T21:35:25.044768,1,vegetarian,Delicious vegetarian meal with rice tomato chicken.
+m134,r55,Meal 134,"cheese,rice,chicken",dessert,138.56,2026-04-14T23:35:25.044791,0,"vegan,halal,vegetarian",Delicious vegan halal vegetarian meal with cheese rice chicken.
+m135,r6,Meal 135,"beef,bread,onion",main,182.1,2026-04-15T04:35:25.044815,1,"kidfriendly,vegan,glutenfree",Delicious kidfriendly vegan glutenfree meal with beef bread onion.
+m136,r47,Meal 136,"egg,rice,tomato",main,113.95,2026-04-14T04:35:25.044837,0,"vegetarian,lowcal,kidfriendly",Delicious vegetarian lowcal kidfriendly meal with egg rice tomato.
+m137,r64,Meal 137,"onion,beef,bread",drink,165.05,2026-04-15T08:35:25.044858,0,halal,Delicious halal meal with onion beef bread.
+m138,r55,Meal 138,"beef,rice,tomato",drink,93.51,2026-04-15T01:35:25.044879,0,spicy,Delicious spicy meal with beef rice tomato.
+m139,r63,Meal 139,"potato,lettuce,fish",starter,193.4,2026-04-17T05:35:25.044907,0,"dessert,vegetarian,spicy",Delicious dessert vegetarian spicy meal with potato lettuce fish.
+m140,r47,Meal 140,"chicken,garlic,onion",main,144.32,2026-04-13T18:35:25.044985,0,"dessert,seafood",Delicious dessert seafood meal with chicken garlic onion.
+m141,r33,Meal 141,"egg,bread,beef",starter,174.38,2026-04-16T10:35:25.045027,1,"lowcal,seafood,dessert",Delicious lowcal seafood dessert meal with egg bread beef.
+m142,r2,Meal 142,"beef,tomato,cheese",starter,184.86,2026-04-14T16:35:25.045051,0,"seafood,glutenfree",Delicious seafood glutenfree meal with beef tomato cheese.
+m143,r53,Meal 143,"beef,fish,garlic",drink,186.77,2026-04-17T12:35:25.045078,0,seafood,Delicious seafood meal with beef fish garlic.
+m144,r55,Meal 144,"egg,cheese,potato",dessert,95.76,2026-04-13T22:35:25.045101,0,spicy,Delicious spicy meal with egg cheese potato.
+m145,r59,Meal 145,"garlic,rice,fish",starter,20.55,2026-04-17T19:35:25.045126,0,"vegan,glutenfree,dessert",Delicious vegan glutenfree dessert meal with garlic rice fish.
+m146,r40,Meal 146,"rice,tomato,potato",starter,172.45,2026-04-17T09:35:25.045149,1,"vegetarian,glutenfree",Delicious vegetarian glutenfree meal with rice tomato potato.
+m147,r41,Meal 147,"cheese,rice,onion",dessert,163.92,2026-04-17T23:35:25.045172,0,"kidfriendly,spicy",Delicious kidfriendly spicy meal with cheese rice onion.
+m148,r11,Meal 148,"lettuce,egg,onion",main,190.66,2026-04-14T18:35:25.045195,0,"dessert,spicy",Delicious dessert spicy meal with lettuce egg onion.
+m149,r12,Meal 149,"egg,rice,chicken",drink,128.07,2026-04-15T17:35:25.045218,0,"halal,seafood",Delicious halal seafood meal with egg rice chicken.
+m150,r12,Meal 150,"chicken,potato,lettuce",drink,168.91,2026-04-17T16:35:25.045242,1,"spicy,vegetarian",Delicious spicy vegetarian meal with chicken potato lettuce.
+m151,r16,Meal 151,"tomato,cheese,garlic",drink,88.77,2026-04-17T13:35:25.045264,1,halal,Delicious halal meal with tomato cheese garlic.
+m152,r27,Meal 152,"garlic,tomato,lettuce",drink,162.64,2026-04-14T13:35:25.045286,0,"halal,seafood,dessert",Delicious halal seafood dessert meal with garlic tomato lettuce.
+m153,r38,Meal 153,"tomato,bread,onion",drink,35.43,2026-04-17T05:35:25.045307,1,"halal,kidfriendly",Delicious halal kidfriendly meal with tomato bread onion.
+m154,r18,Meal 154,"egg,lettuce,garlic",dessert,33.15,2026-04-17T12:35:25.045335,0,"lowcal,halal",Delicious lowcal halal meal with egg lettuce garlic.
+m155,r7,Meal 155,"bread,onion,garlic",main,20.96,2026-04-17T08:35:25.045357,1,"halal,kidfriendly",Delicious halal kidfriendly meal with bread onion garlic.
+m156,r39,Meal 156,"potato,chicken,onion",dessert,50.58,2026-04-14T12:35:25.045381,1,"dessert,spicy",Delicious dessert spicy meal with potato chicken onion.
+m157,r44,Meal 157,"bread,potato,lettuce",dessert,41.03,2026-04-14T08:35:25.045403,0,"spicy,vegetarian",Delicious spicy vegetarian meal with bread potato lettuce.
+m158,r17,Meal 158,"lettuce,cheese,garlic",dessert,113.06,2026-04-16T20:35:25.045433,1,"seafood,dessert",Delicious seafood dessert meal with lettuce cheese garlic.
+m159,r22,Meal 159,"potato,garlic,fish",starter,46.75,2026-04-13T20:35:25.045455,0,"kidfriendly,spicy",Delicious kidfriendly spicy meal with potato garlic fish.
+m160,r24,Meal 160,"cheese,rice,fish",main,199.14,2026-04-15T21:35:25.045480,1,kidfriendly,Delicious kidfriendly meal with cheese rice fish.
+m161,r6,Meal 161,"fish,egg,beef",starter,42.26,2026-04-18T02:35:25.045503,0,"dessert,kidfriendly",Delicious dessert kidfriendly meal with fish egg beef.
+m162,r27,Meal 162,"egg,potato,cheese",starter,125.04,2026-04-16T14:35:25.045526,0,"spicy,glutenfree",Delicious spicy glutenfree meal with egg potato cheese.
+m163,r68,Meal 163,"tomato,fish,beef",dessert,24.67,2026-04-18T07:35:25.045548,0,"spicy,lowcal,vegan",Delicious spicy lowcal vegan meal with tomato fish beef.
+m164,r51,Meal 164,"rice,chicken,beef",drink,101.73,2026-04-16T00:35:25.045570,0,"vegetarian,dessert",Delicious vegetarian dessert meal with rice chicken beef.
+m165,r77,Meal 165,"garlic,onion,fish",starter,58.05,2026-04-15T07:35:25.045594,0,"vegan,dessert,glutenfree",Delicious vegan dessert glutenfree meal with garlic onion fish.
+m166,r37,Meal 166,"potato,onion,lettuce",drink,65.93,2026-04-14T01:35:25.045616,0,"vegan,vegetarian",Delicious vegan vegetarian meal with potato onion lettuce.
+m167,r52,Meal 167,"tomato,rice,lettuce",drink,71.29,2026-04-17T17:35:25.045638,0,vegan,Delicious vegan meal with tomato rice lettuce.
+m168,r16,Meal 168,"egg,cheese,onion",dessert,139.79,2026-04-14T06:35:25.045661,0,"kidfriendly,lowcal",Delicious kidfriendly lowcal meal with egg cheese onion.
+m169,r66,Meal 169,"fish,lettuce,egg",drink,36.24,2026-04-15T00:35:25.045682,1,kidfriendly,Delicious kidfriendly meal with fish lettuce egg.
+m170,r48,Meal 170,"lettuce,beef,chicken",dessert,195.19,2026-04-16T07:35:25.045708,0,"spicy,lowcal,dessert",Delicious spicy lowcal dessert meal with lettuce beef chicken.
+m171,r20,Meal 171,"cheese,fish,lettuce",drink,74.07,2026-04-14T00:35:25.045731,0,"glutenfree,vegetarian",Delicious glutenfree vegetarian meal with cheese fish lettuce.
+m172,r39,Meal 172,"lettuce,cheese,onion",main,185.11,2026-04-13T20:35:25.045752,0,glutenfree,Delicious glutenfree meal with lettuce cheese onion.
+m173,r66,Meal 173,"fish,garlic,onion",dessert,83.98,2026-04-17T22:35:25.045773,0,"lowcal,vegetarian",Delicious lowcal vegetarian meal with fish garlic onion.
+m174,r65,Meal 174,"egg,garlic,fish",starter,171.72,2026-04-14T12:35:25.045817,0,vegetarian,Delicious vegetarian meal with egg garlic fish.
+m175,r11,Meal 175,"onion,fish,garlic",dessert,81.44,2026-04-16T21:35:25.045842,0,"seafood,dessert",Delicious seafood dessert meal with onion fish garlic.
+m176,r28,Meal 176,"egg,onion,cheese",main,98.08,2026-04-18T05:35:25.045863,0,vegetarian,Delicious vegetarian meal with egg onion cheese.
+m177,r1,Meal 177,"rice,garlic,fish",drink,176.38,2026-04-16T00:35:25.045885,1,"vegetarian,vegan",Delicious vegetarian vegan meal with rice garlic fish.
+m178,r39,Meal 178,"cheese,beef,rice",main,54.34,2026-04-14T07:35:25.045915,0,"dessert,lowcal,kidfriendly",Delicious dessert lowcal kidfriendly meal with cheese beef rice.
+m179,r25,Meal 179,"fish,garlic,rice",starter,98.44,2026-04-17T01:35:25.045937,0,halal,Delicious halal meal with fish garlic rice.
+m180,r12,Meal 180,"fish,lettuce,chicken",starter,182.43,2026-04-14T04:35:25.045957,1,"kidfriendly,spicy",Delicious kidfriendly spicy meal with fish lettuce chicken.
+m181,r63,Meal 181,"onion,tomato,garlic",drink,29.17,2026-04-15T03:35:25.045979,0,"vegan,kidfriendly",Delicious vegan kidfriendly meal with onion tomato garlic.
+m182,r14,Meal 182,"fish,onion,garlic",dessert,26.66,2026-04-17T11:35:25.046002,1,"lowcal,glutenfree,kidfriendly",Delicious lowcal glutenfree kidfriendly meal with fish onion garlic.
+m183,r63,Meal 183,"chicken,potato,egg",dessert,119.59,2026-04-15T20:35:25.046025,0,"kidfriendly,halal,dessert",Delicious kidfriendly halal dessert meal with chicken potato egg.
+m184,r54,Meal 184,"onion,garlic,bread",drink,23.75,2026-04-15T23:35:25.046047,0,"vegetarian,kidfriendly",Delicious vegetarian kidfriendly meal with onion garlic bread.
+m185,r25,Meal 185,"tomato,potato,egg",dessert,185.91,2026-04-16T17:35:25.046068,1,"dessert,kidfriendly",Delicious dessert kidfriendly meal with tomato potato egg.
+m186,r17,Meal 186,"garlic,egg,bread",drink,163.96,2026-04-17T19:35:25.046091,0,"lowcal,glutenfree",Delicious lowcal glutenfree meal with garlic egg bread.
+m187,r80,Meal 187,"egg,beef,fish",starter,55.91,2026-04-14T06:35:25.046112,1,seafood,Delicious seafood meal with egg beef fish.
+m188,r13,Meal 188,"tomato,egg,potato",main,84.58,2026-04-13T20:35:25.046134,0,"kidfriendly,seafood",Delicious kidfriendly seafood meal with tomato egg potato.
+m189,r46,Meal 189,"potato,chicken,beef",drink,40.51,2026-04-15T09:35:25.046155,0,"spicy,glutenfree,lowcal",Delicious spicy glutenfree lowcal meal with potato chicken beef.
+m190,r16,Meal 190,"bread,egg,chicken",dessert,181.34,2026-04-17T16:35:25.046177,0,"halal,kidfriendly,spicy",Delicious halal kidfriendly spicy meal with bread egg chicken.
+m191,r7,Meal 191,"beef,onion,garlic",main,168.25,2026-04-17T18:35:25.046202,0,"kidfriendly,vegetarian",Delicious kidfriendly vegetarian meal with beef onion garlic.
+m192,r65,Meal 192,"garlic,beef,tomato",dessert,48.27,2026-04-18T10:35:25.046224,0,spicy,Delicious spicy meal with garlic beef tomato.
+m193,r57,Meal 193,"garlic,bread,egg",starter,42.14,2026-04-17T22:35:25.046246,0,"kidfriendly,vegetarian,glutenfree",Delicious kidfriendly vegetarian glutenfree meal with garlic bread egg.
+m194,r57,Meal 194,"fish,bread,cheese",starter,35.34,2026-04-16T06:35:25.046268,0,"vegan,halal",Delicious vegan halal meal with fish bread cheese.
+m195,r54,Meal 195,"potato,lettuce,tomato",drink,94.41,2026-04-14T07:35:25.046309,1,"halal,spicy",Delicious halal spicy meal with potato lettuce tomato.
+m196,r59,Meal 196,"rice,chicken,potato",main,80.89,2026-04-13T22:35:25.046339,1,"dessert,vegan,halal",Delicious dessert vegan halal meal with rice chicken potato.
+m197,r22,Meal 197,"chicken,garlic,rice",main,195.99,2026-04-18T09:35:25.046381,0,"vegan,lowcal",Delicious vegan lowcal meal with chicken garlic rice.
+m198,r54,Meal 198,"egg,bread,garlic",dessert,182.04,2026-04-13T15:35:25.046405,0,"glutenfree,seafood",Delicious glutenfree seafood meal with egg bread garlic.
+m199,r52,Meal 199,"egg,bread,lettuce",starter,178.58,2026-04-17T17:35:25.046428,0,"halal,kidfriendly",Delicious halal kidfriendly meal with egg bread lettuce.
+m200,r5,Meal 200,"egg,rice,potato",dessert,58.47,2026-04-16T11:35:25.046454,0,"dessert,lowcal,glutenfree",Delicious dessert lowcal glutenfree meal with egg rice potato.
+m201,r67,Meal 201,"chicken,potato,onion",starter,169.8,2026-04-14T23:35:25.046641,0,"spicy,vegan",Delicious spicy vegan meal with chicken potato onion.
+m202,r55,Meal 202,"bread,cheese,potato",main,28.59,2026-04-15T11:35:25.046699,0,"vegetarian,vegan,lowcal",Delicious vegetarian vegan lowcal meal with bread cheese potato.
+m203,r58,Meal 203,"bread,tomato,onion",starter,83.06,2026-04-16T14:35:25.046744,0,"vegan,kidfriendly",Delicious vegan kidfriendly meal with bread tomato onion.
+m204,r74,Meal 204,"egg,tomato,beef",starter,168.11,2026-04-15T07:35:25.046773,0,"spicy,lowcal,seafood",Delicious spicy lowcal seafood meal with egg tomato beef.
+m205,r59,Meal 205,"egg,lettuce,garlic",main,31.19,2026-04-14T00:35:25.046798,0,spicy,Delicious spicy meal with egg lettuce garlic.
+m206,r61,Meal 206,"beef,bread,potato",drink,176.96,2026-04-15T17:35:25.046821,1,kidfriendly,Delicious kidfriendly meal with beef bread potato.
+m207,r55,Meal 207,"rice,egg,potato",drink,148.01,2026-04-14T06:35:25.046846,0,"kidfriendly,lowcal",Delicious kidfriendly lowcal meal with rice egg potato.
+m208,r66,Meal 208,"fish,chicken,rice",dessert,185.91,2026-04-16T13:35:25.046870,0,"vegetarian,halal,kidfriendly",Delicious vegetarian halal kidfriendly meal with fish chicken rice.
+m209,r78,Meal 209,"bread,onion,cheese",starter,41.19,2026-04-13T19:35:25.046891,0,"vegetarian,glutenfree",Delicious vegetarian glutenfree meal with bread onion cheese.
+m210,r48,Meal 210,"chicken,rice,garlic",drink,28.76,2026-04-17T18:35:25.046911,0,"seafood,kidfriendly",Delicious seafood kidfriendly meal with chicken rice garlic.
+m211,r37,Meal 211,"egg,fish,chicken",dessert,32.16,2026-04-14T05:35:25.046933,0,spicy,Delicious spicy meal with egg fish chicken.
+m212,r54,Meal 212,"bread,lettuce,fish",starter,157.15,2026-04-18T00:35:25.046957,1,"seafood,kidfriendly",Delicious seafood kidfriendly meal with bread lettuce fish.
+m213,r58,Meal 213,"egg,bread,beef",drink,89.7,2026-04-17T20:35:25.046985,1,"kidfriendly,spicy,lowcal",Delicious kidfriendly spicy lowcal meal with egg bread beef.
+m214,r44,Meal 214,"cheese,garlic,beef",starter,147.3,2026-04-18T04:35:25.047013,0,"vegan,kidfriendly,dessert",Delicious vegan kidfriendly dessert meal with cheese garlic beef.
+m215,r72,Meal 215,"onion,potato,egg",main,192.31,2026-04-17T14:35:25.047037,0,"vegetarian,glutenfree,kidfriendly",Delicious vegetarian glutenfree kidfriendly meal with onion potato egg.
+m216,r61,Meal 216,"potato,rice,chicken",starter,64.15,2026-04-15T01:35:25.047064,1,"vegan,vegetarian,dessert",Delicious vegan vegetarian dessert meal with potato rice chicken.
+m217,r11,Meal 217,"chicken,fish,egg",drink,52.49,2026-04-15T09:35:25.047097,0,"dessert,lowcal,seafood",Delicious dessert lowcal seafood meal with chicken fish egg.
+m218,r68,Meal 218,"beef,egg,garlic",starter,71.36,2026-04-16T11:35:25.047120,0,"lowcal,seafood",Delicious lowcal seafood meal with beef egg garlic.
+m219,r33,Meal 219,"cheese,lettuce,rice",dessert,52.66,2026-04-13T21:35:25.047142,0,spicy,Delicious spicy meal with cheese lettuce rice.
+m220,r39,Meal 220,"rice,lettuce,bread",drink,189.48,2026-04-14T23:35:25.047165,0,"vegetarian,dessert",Delicious vegetarian dessert meal with rice lettuce bread.
+m221,r7,Meal 221,"onion,egg,tomato",drink,190.88,2026-04-16T05:35:25.047186,0,halal,Delicious halal meal with onion egg tomato.
+m222,r8,Meal 222,"beef,fish,chicken",starter,184.47,2026-04-15T18:35:25.047208,0,"kidfriendly,lowcal",Delicious kidfriendly lowcal meal with beef fish chicken.
+m223,r35,Meal 223,"potato,garlic,rice",drink,100.28,2026-04-15T04:35:25.047231,0,"vegetarian,halal,lowcal",Delicious vegetarian halal lowcal meal with potato garlic rice.
+m224,r19,Meal 224,"tomato,potato,lettuce",drink,27.52,2026-04-18T10:35:25.047253,1,"glutenfree,spicy",Delicious glutenfree spicy meal with tomato potato lettuce.
+m225,r80,Meal 225,"chicken,fish,cheese",dessert,171.11,2026-04-16T18:35:25.047278,1,"spicy,vegan",Delicious spicy vegan meal with chicken fish cheese.
+m226,r45,Meal 226,"rice,potato,onion",dessert,36.15,2026-04-13T22:35:25.047301,0,"halal,seafood,vegan",Delicious halal seafood vegan meal with rice potato onion.
+m227,r18,Meal 227,"tomato,onion,potato",dessert,179.11,2026-04-17T20:35:25.047324,0,"glutenfree,seafood,halal",Delicious glutenfree seafood halal meal with tomato onion potato.
+m228,r34,Meal 228,"garlic,bread,egg",drink,192.62,2026-04-14T16:35:25.047348,0,"kidfriendly,seafood,vegetarian",Delicious kidfriendly seafood vegetarian meal with garlic bread egg.
+m229,r3,Meal 229,"fish,chicken,garlic",starter,94.37,2026-04-17T04:35:25.047371,1,"spicy,vegan,seafood",Delicious spicy vegan seafood meal with fish chicken garlic.
+m230,r51,Meal 230,"chicken,garlic,fish",main,83.54,2026-04-17T04:35:25.047396,1,"vegetarian,glutenfree,seafood",Delicious vegetarian glutenfree seafood meal with chicken garlic fish.
+m231,r77,Meal 231,"egg,chicken,beef",dessert,188.52,2026-04-16T01:35:25.047424,1,"lowcal,spicy",Delicious lowcal spicy meal with egg chicken beef.
+m232,r2,Meal 232,"cheese,garlic,bread",main,166.93,2026-04-14T14:35:25.047447,0,vegan,Delicious vegan meal with cheese garlic bread.
+m233,r29,Meal 233,"bread,chicken,cheese",starter,21.28,2026-04-16T05:35:25.047469,1,kidfriendly,Delicious kidfriendly meal with bread chicken cheese.
+m234,r15,Meal 234,"rice,potato,tomato",starter,31.76,2026-04-17T02:35:25.047496,0,"glutenfree,kidfriendly",Delicious glutenfree kidfriendly meal with rice potato tomato.
+m235,r9,Meal 235,"onion,tomato,potato",dessert,54.53,2026-04-17T11:35:25.047518,0,seafood,Delicious seafood meal with onion tomato potato.
+m236,r69,Meal 236,"lettuce,garlic,chicken",dessert,97.86,2026-04-18T03:35:25.047545,1,"seafood,kidfriendly,vegan",Delicious seafood kidfriendly vegan meal with lettuce garlic chicken.
+m237,r36,Meal 237,"fish,egg,bread",main,179.08,2026-04-16T08:35:25.047568,0,glutenfree,Delicious glutenfree meal with fish egg bread.
+m238,r7,Meal 238,"bread,chicken,lettuce",dessert,34.73,2026-04-14T14:35:25.047590,0,"lowcal,kidfriendly",Delicious lowcal kidfriendly meal with bread chicken lettuce.
+m239,r29,Meal 239,"tomato,rice,bread",main,132.68,2026-04-15T05:35:25.047614,0,"lowcal,vegetarian,kidfriendly",Delicious lowcal vegetarian kidfriendly meal with tomato rice bread.
+m240,r4,Meal 240,"onion,garlic,bread",dessert,64.49,2026-04-18T01:35:25.047637,1,"lowcal,vegan",Delicious lowcal vegan meal with onion garlic bread.
+m241,r31,Meal 241,"potato,tomato,beef",drink,157.54,2026-04-17T17:35:25.047660,1,"vegan,dessert",Delicious vegan dessert meal with potato tomato beef.
+m242,r75,Meal 242,"chicken,egg,lettuce",main,160.88,2026-04-15T06:35:25.047692,0,vegetarian,Delicious vegetarian meal with chicken egg lettuce.
+m243,r57,Meal 243,"onion,garlic,lettuce",main,141.96,2026-04-13T22:35:25.047715,0,seafood,Delicious seafood meal with onion garlic lettuce.
+m244,r38,Meal 244,"onion,lettuce,tomato",main,101.61,2026-04-18T04:35:25.047737,1,"lowcal,vegetarian",Delicious lowcal vegetarian meal with onion lettuce tomato.
+m245,r55,Meal 245,"garlic,chicken,fish",dessert,125.81,2026-04-16T08:35:25.047760,0,"vegetarian,dessert,kidfriendly",Delicious vegetarian dessert kidfriendly meal with garlic chicken fish.
+m246,r14,Meal 246,"onion,tomato,egg",dessert,83.97,2026-04-14T06:35:25.047783,1,vegetarian,Delicious vegetarian meal with onion tomato egg.
+m247,r80,Meal 247,"rice,chicken,garlic",dessert,125.21,2026-04-14T06:35:25.047805,0,"spicy,halal",Delicious spicy halal meal with rice chicken garlic.
+m248,r40,Meal 248,"fish,cheese,onion",dessert,86.39,2026-04-15T09:35:25.047829,0,"glutenfree,spicy,vegetarian",Delicious glutenfree spicy vegetarian meal with fish cheese onion.
+m249,r67,Meal 249,"potato,egg,chicken",dessert,55.17,2026-04-15T20:35:25.047853,0,"spicy,vegan,vegetarian",Delicious spicy vegan vegetarian meal with potato egg chicken.
+m250,r26,Meal 250,"tomato,garlic,fish",drink,127.96,2026-04-17T06:35:25.047885,0,dessert,Delicious dessert meal with tomato garlic fish.
+m251,r75,Meal 251,"bread,rice,beef",main,109.27,2026-04-16T00:35:25.047908,0,"dessert,seafood,halal",Delicious dessert seafood halal meal with bread rice beef.
+m252,r29,Meal 252,"tomato,egg,fish",dessert,165.31,2026-04-17T12:35:25.047932,1,"halal,kidfriendly,seafood",Delicious halal kidfriendly seafood meal with tomato egg fish.
+m253,r27,Meal 253,"bread,chicken,beef",main,119.84,2026-04-15T11:35:25.047955,0,"spicy,vegan",Delicious spicy vegan meal with bread chicken beef.
+m254,r38,Meal 254,"chicken,egg,tomato",dessert,51.35,2026-04-14T15:35:25.047977,0,"halal,dessert",Delicious halal dessert meal with chicken egg tomato.
+m255,r23,Meal 255,"rice,tomato,chicken",dessert,183.92,2026-04-14T12:35:25.048000,0,"glutenfree,halal",Delicious glutenfree halal meal with rice tomato chicken.
+m256,r18,Meal 256,"tomato,cheese,fish",dessert,165.71,2026-04-14T20:35:25.048027,0,"vegetarian,dessert",Delicious vegetarian dessert meal with tomato cheese fish.
+m257,r68,Meal 257,"rice,egg,tomato",drink,144.98,2026-04-14T14:35:25.048059,0,"lowcal,vegetarian,vegan",Delicious lowcal vegetarian vegan meal with rice egg tomato.
+m258,r77,Meal 258,"onion,egg,tomato",dessert,162.13,2026-04-18T03:35:25.048083,0,"halal,vegan",Delicious halal vegan meal with onion egg tomato.
+m259,r32,Meal 259,"rice,potato,onion",drink,57.66,2026-04-18T07:35:25.048106,0,seafood,Delicious seafood meal with rice potato onion.
+m260,r61,Meal 260,"lettuce,garlic,potato",drink,113.4,2026-04-15T13:35:25.048130,0,"vegetarian,spicy,seafood",Delicious vegetarian spicy seafood meal with lettuce garlic potato.
+m261,r42,Meal 261,"fish,egg,cheese",drink,134.86,2026-04-16T16:35:25.048153,0,"dessert,kidfriendly,glutenfree",Delicious dessert kidfriendly glutenfree meal with fish egg cheese.
+m262,r27,Meal 262,"fish,tomato,lettuce",dessert,96.5,2026-04-14T17:35:25.048176,1,halal,Delicious halal meal with fish tomato lettuce.
+m263,r74,Meal 263,"cheese,potato,beef",main,73.11,2026-04-14T07:35:25.048198,0,dessert,Delicious dessert meal with cheese potato beef.
+m264,r30,Meal 264,"onion,bread,lettuce",drink,97.85,2026-04-15T23:35:25.048221,0,"vegan,kidfriendly,seafood",Delicious vegan kidfriendly seafood meal with onion bread lettuce.
+m265,r64,Meal 265,"chicken,rice,fish",dessert,136.16,2026-04-14T19:35:25.048244,0,"seafood,lowcal",Delicious seafood lowcal meal with chicken rice fish.
+m266,r11,Meal 266,"cheese,tomato,beef",main,84.84,2026-04-14T05:35:25.048267,0,"glutenfree,vegetarian",Delicious glutenfree vegetarian meal with cheese tomato beef.
+m267,r43,Meal 267,"cheese,egg,garlic",starter,199.71,2026-04-14T14:35:25.048290,0,dessert,Delicious dessert meal with cheese egg garlic.
+m268,r2,Meal 268,"lettuce,egg,onion",main,104.96,2026-04-17T14:35:25.048318,0,"seafood,dessert",Delicious seafood dessert meal with lettuce egg onion.
+m269,r51,Meal 269,"egg,tomato,fish",drink,150.05,2026-04-14T19:35:25.048341,1,halal,Delicious halal meal with egg tomato fish.
+m270,r44,Meal 270,"tomato,lettuce,garlic",drink,100.99,2026-04-14T16:35:25.048370,0,dessert,Delicious dessert meal with tomato lettuce garlic.
+m271,r48,Meal 271,"cheese,chicken,fish",dessert,81.17,2026-04-17T21:35:25.048393,1,spicy,Delicious spicy meal with cheese chicken fish.
+m272,r55,Meal 272,"onion,chicken,egg",main,185.99,2026-04-17T18:35:25.048419,0,"lowcal,seafood,spicy",Delicious lowcal seafood spicy meal with onion chicken egg.
+m273,r43,Meal 273,"lettuce,beef,potato",starter,105.46,2026-04-15T15:35:25.048444,0,"lowcal,glutenfree,vegetarian",Delicious lowcal glutenfree vegetarian meal with lettuce beef potato.
+m274,r73,Meal 274,"rice,beef,potato",main,168.77,2026-04-14T12:35:25.048466,1,"seafood,vegetarian",Delicious seafood vegetarian meal with rice beef potato.
+m275,r4,Meal 275,"beef,lettuce,cheese",starter,72.4,2026-04-14T16:35:25.048492,0,halal,Delicious halal meal with beef lettuce cheese.
+m276,r59,Meal 276,"potato,chicken,rice",drink,90.4,2026-04-15T07:35:25.048515,0,dessert,Delicious dessert meal with potato chicken rice.
+m277,r17,Meal 277,"beef,lettuce,tomato",starter,75.76,2026-04-14T06:35:25.048538,1,"lowcal,kidfriendly,dessert",Delicious lowcal kidfriendly dessert meal with beef lettuce tomato.
+m278,r21,Meal 278,"egg,garlic,fish",starter,21.34,2026-04-15T01:35:25.048561,0,"seafood,halal,glutenfree",Delicious seafood halal glutenfree meal with egg garlic fish.
+m279,r58,Meal 279,"onion,tomato,potato",drink,102.84,2026-04-15T08:35:25.048584,0,lowcal,Delicious lowcal meal with onion tomato potato.
+m280,r12,Meal 280,"egg,cheese,lettuce",starter,94.71,2026-04-16T20:35:25.048607,0,"kidfriendly,dessert",Delicious kidfriendly dessert meal with egg cheese lettuce.
+m281,r80,Meal 281,"garlic,rice,onion",drink,145.76,2026-04-14T02:35:25.048631,0,"lowcal,kidfriendly,halal",Delicious lowcal kidfriendly halal meal with garlic rice onion.
+m282,r31,Meal 282,"garlic,potato,cheese",main,145.65,2026-04-17T03:35:25.048657,0,seafood,Delicious seafood meal with garlic potato cheese.
+m283,r64,Meal 283,"bread,beef,garlic",dessert,93.82,2026-04-16T06:35:25.048680,0,"glutenfree,vegetarian",Delicious glutenfree vegetarian meal with bread beef garlic.
+m284,r33,Meal 284,"chicken,fish,egg",drink,88.61,2026-04-13T23:35:25.048702,1,glutenfree,Delicious glutenfree meal with chicken fish egg.
+m285,r25,Meal 285,"cheese,beef,rice",drink,107.26,2026-04-15T07:35:25.048729,0,"vegan,glutenfree",Delicious vegan glutenfree meal with cheese beef rice.
+m286,r11,Meal 286,"fish,cheese,rice",main,129.26,2026-04-14T11:35:25.048772,0,"halal,kidfriendly,vegetarian",Delicious halal kidfriendly vegetarian meal with fish cheese rice.
+m287,r38,Meal 287,"egg,lettuce,rice",main,141.93,2026-04-13T23:35:25.048797,0,glutenfree,Delicious glutenfree meal with egg lettuce rice.
+m288,r57,Meal 288,"egg,chicken,potato",drink,145.41,2026-04-14T17:35:25.048820,0,"spicy,halal",Delicious spicy halal meal with egg chicken potato.
+m289,r50,Meal 289,"onion,chicken,garlic",drink,158.08,2026-04-17T16:35:25.048844,0,"seafood,kidfriendly,vegan",Delicious seafood kidfriendly vegan meal with onion chicken garlic.
+m290,r48,Meal 290,"beef,chicken,lettuce",main,80.68,2026-04-13T17:35:25.048865,0,halal,Delicious halal meal with beef chicken lettuce.
+m291,r9,Meal 291,"garlic,rice,egg",drink,112.25,2026-04-13T19:35:25.048888,0,vegetarian,Delicious vegetarian meal with garlic rice egg.
+m292,r42,Meal 292,"lettuce,egg,beef",starter,39.06,2026-04-14T19:35:25.048911,0,"halal,glutenfree,seafood",Delicious halal glutenfree seafood meal with lettuce egg beef.
+m293,r23,Meal 293,"garlic,bread,chicken",starter,102.58,2026-04-15T15:35:25.048933,0,lowcal,Delicious lowcal meal with garlic bread chicken.
+m294,r36,Meal 294,"tomato,lettuce,cheese",drink,196.96,2026-04-17T16:35:25.048955,0,"dessert,vegan,kidfriendly",Delicious dessert vegan kidfriendly meal with tomato lettuce cheese.
+m295,r69,Meal 295,"onion,bread,lettuce",starter,79.77,2026-04-17T04:35:25.048983,0,"spicy,seafood,vegan",Delicious spicy seafood vegan meal with onion bread lettuce.
+m296,r62,Meal 296,"chicken,onion,garlic",drink,111.98,2026-04-15T23:35:25.049003,0,dessert,Delicious dessert meal with chicken onion garlic.
+m297,r65,Meal 297,"onion,beef,cheese",drink,156.3,2026-04-14T20:35:25.049026,0,"vegan,halal,glutenfree",Delicious vegan halal glutenfree meal with onion beef cheese.
+m298,r8,Meal 298,"fish,cheese,tomato",drink,56.79,2026-04-14T09:35:25.049046,0,dessert,Delicious dessert meal with fish cheese tomato.
+m299,r31,Meal 299,"cheese,bread,chicken",drink,136.65,2026-04-16T08:35:25.049068,0,"kidfriendly,dessert,vegetarian",Delicious kidfriendly dessert vegetarian meal with cheese bread chicken.
+m300,r4,Meal 300,"bread,tomato,garlic",main,183.19,2026-04-16T11:35:25.049089,0,dessert,Delicious dessert meal with bread tomato garlic.
+m301,r29,Meal 301,"fish,garlic,chicken",drink,32.6,2026-04-13T22:35:25.049128,0,"lowcal,dessert,vegetarian",Delicious lowcal dessert vegetarian meal with fish garlic chicken.
+m302,r7,Meal 302,"beef,rice,onion",starter,62.54,2026-04-16T12:35:25.049151,0,"spicy,halal,vegetarian",Delicious spicy halal vegetarian meal with beef rice onion.
+m303,r55,Meal 303,"egg,tomato,garlic",starter,129.05,2026-04-15T20:35:25.049173,0,"kidfriendly,seafood,vegetarian",Delicious kidfriendly seafood vegetarian meal with egg tomato garlic.
+m304,r37,Meal 304,"fish,beef,bread",drink,50.2,2026-04-15T16:35:25.049195,1,"kidfriendly,halal,spicy",Delicious kidfriendly halal spicy meal with fish beef bread.
+m305,r55,Meal 305,"fish,chicken,lettuce",main,156.59,2026-04-15T20:35:25.049217,0,"lowcal,spicy,glutenfree",Delicious lowcal spicy glutenfree meal with fish chicken lettuce.
+m306,r77,Meal 306,"lettuce,fish,cheese",dessert,87.53,2026-04-16T00:35:25.049243,1,"spicy,glutenfree,kidfriendly",Delicious spicy glutenfree kidfriendly meal with lettuce fish cheese.
+m307,r10,Meal 307,"tomato,rice,egg",main,175.1,2026-04-13T14:35:25.049265,0,"spicy,kidfriendly",Delicious spicy kidfriendly meal with tomato rice egg.
+m308,r63,Meal 308,"egg,bread,lettuce",dessert,135.39,2026-04-16T04:35:25.049287,0,"lowcal,glutenfree",Delicious lowcal glutenfree meal with egg bread lettuce.
+m309,r53,Meal 309,"lettuce,onion,rice",drink,192.28,2026-04-14T14:35:25.049308,0,vegetarian,Delicious vegetarian meal with lettuce onion rice.
+m310,r66,Meal 310,"chicken,garlic,lettuce",drink,152.42,2026-04-18T12:35:25.049333,0,"kidfriendly,dessert,glutenfree",Delicious kidfriendly dessert glutenfree meal with chicken garlic lettuce.
+m311,r62,Meal 311,"garlic,egg,chicken",starter,67.04,2026-04-17T07:35:25.049355,1,dessert,Delicious dessert meal with garlic egg chicken.
+m312,r19,Meal 312,"chicken,beef,garlic",drink,91.58,2026-04-17T00:35:25.049378,0,"halal,spicy",Delicious halal spicy meal with chicken beef garlic.
+m313,r67,Meal 313,"rice,lettuce,cheese",dessert,110.12,2026-04-17T06:35:25.049400,1,lowcal,Delicious lowcal meal with rice lettuce cheese.
+m314,r76,Meal 314,"beef,garlic,onion",dessert,166.56,2026-04-17T17:35:25.049425,0,"lowcal,vegetarian",Delicious lowcal vegetarian meal with beef garlic onion.
+m315,r27,Meal 315,"rice,fish,chicken",main,159.27,2026-04-14T02:35:25.049446,1,"lowcal,seafood,vegan",Delicious lowcal seafood vegan meal with rice fish chicken.
+m316,r68,Meal 316,"rice,egg,bread",starter,55.64,2026-04-14T13:35:25.049466,0,"seafood,lowcal",Delicious seafood lowcal meal with rice egg bread.
+m317,r65,Meal 317,"onion,tomato,rice",main,154.98,2026-04-14T15:35:25.049486,0,kidfriendly,Delicious kidfriendly meal with onion tomato rice.
+m318,r34,Meal 318,"garlic,rice,beef",main,87.99,2026-04-15T03:35:25.049508,0,"kidfriendly,vegetarian",Delicious kidfriendly vegetarian meal with garlic rice beef.
+m319,r9,Meal 319,"fish,egg,beef",main,67.89,2026-04-13T15:35:25.049529,0,"vegan,halal",Delicious vegan halal meal with fish egg beef.
+m320,r75,Meal 320,"tomato,potato,chicken",dessert,187.78,2026-04-15T14:35:25.049549,1,vegetarian,Delicious vegetarian meal with tomato potato chicken.
+m321,r44,Meal 321,"garlic,bread,egg",starter,189.38,2026-04-17T22:35:25.049571,1,"lowcal,dessert,spicy",Delicious lowcal dessert spicy meal with garlic bread egg.
+m322,r49,Meal 322,"bread,beef,chicken",drink,150.54,2026-04-16T00:35:25.049592,0,"vegan,dessert,lowcal",Delicious vegan dessert lowcal meal with bread beef chicken.
+m323,r4,Meal 323,"tomato,bread,fish",drink,112.68,2026-04-16T21:35:25.049614,0,"vegetarian,seafood,dessert",Delicious vegetarian seafood dessert meal with tomato bread fish.
+m324,r1,Meal 324,"bread,chicken,egg",drink,62.04,2026-04-17T04:35:25.049641,1,"dessert,vegan,glutenfree",Delicious dessert vegan glutenfree meal with bread chicken egg.
+m325,r52,Meal 325,"fish,garlic,beef",drink,72.9,2026-04-17T11:35:25.049664,0,"vegetarian,dessert,halal",Delicious vegetarian dessert halal meal with fish garlic beef.
+m326,r19,Meal 326,"fish,beef,cheese",drink,50.25,2026-04-18T00:35:25.049687,1,"glutenfree,vegan,vegetarian",Delicious glutenfree vegan vegetarian meal with fish beef cheese.
+m327,r15,Meal 327,"tomato,egg,rice",main,38.98,2026-04-17T14:35:25.049709,0,"glutenfree,halal",Delicious glutenfree halal meal with tomato egg rice.
+m328,r21,Meal 328,"tomato,cheese,fish",main,139.79,2026-04-18T08:35:25.049742,1,"lowcal,seafood",Delicious lowcal seafood meal with tomato cheese fish.
+m329,r12,Meal 329,"onion,beef,bread",drink,137.71,2026-04-15T14:35:25.049782,1,"dessert,halal,seafood",Delicious dessert halal seafood meal with onion beef bread.
+m330,r30,Meal 330,"beef,cheese,egg",main,81.24,2026-04-14T04:35:25.049805,0,seafood,Delicious seafood meal with beef cheese egg.
+m331,r15,Meal 331,"bread,lettuce,onion",main,75.94,2026-04-17T12:35:25.049828,0,"dessert,spicy,lowcal",Delicious dessert spicy lowcal meal with bread lettuce onion.
+m332,r50,Meal 332,"garlic,rice,potato",starter,39.19,2026-04-17T02:35:25.049851,0,"dessert,glutenfree",Delicious dessert glutenfree meal with garlic rice potato.
+m333,r69,Meal 333,"cheese,tomato,fish",drink,46.54,2026-04-17T05:35:25.049874,0,"dessert,spicy",Delicious dessert spicy meal with cheese tomato fish.
+m334,r19,Meal 334,"potato,beef,cheese",drink,133.59,2026-04-18T02:35:25.049897,0,"vegan,dessert,spicy",Delicious vegan dessert spicy meal with potato beef cheese.
+m335,r64,Meal 335,"bread,rice,tomato",starter,146.07,2026-04-18T02:35:25.049920,0,"lowcal,vegan",Delicious lowcal vegan meal with bread rice tomato.
+m336,r23,Meal 336,"garlic,rice,chicken",drink,80.73,2026-04-16T12:35:25.049942,1,"lowcal,seafood",Delicious lowcal seafood meal with garlic rice chicken.
+m337,r45,Meal 337,"potato,cheese,garlic",starter,146.2,2026-04-17T07:35:25.049964,1,"lowcal,vegetarian",Delicious lowcal vegetarian meal with potato cheese garlic.
+m338,r13,Meal 338,"onion,chicken,cheese",starter,123.89,2026-04-16T00:35:25.049986,1,dessert,Delicious dessert meal with onion chicken cheese.
+m339,r62,Meal 339,"tomato,egg,chicken",main,142.1,2026-04-15T12:35:25.050008,0,"spicy,halal",Delicious spicy halal meal with tomato egg chicken.
+m340,r49,Meal 340,"beef,bread,fish",main,41.12,2026-04-14T12:35:25.050031,0,"spicy,vegan",Delicious spicy vegan meal with beef bread fish.
+m341,r76,Meal 341,"tomato,chicken,beef",drink,107.95,2026-04-14T20:35:25.050056,0,"spicy,lowcal",Delicious spicy lowcal meal with tomato chicken beef.
+m342,r49,Meal 342,"garlic,lettuce,cheese",drink,86.12,2026-04-16T22:35:25.050079,0,"vegetarian,kidfriendly,lowcal",Delicious vegetarian kidfriendly lowcal meal with garlic lettuce cheese.
+m343,r15,Meal 343,"fish,garlic,potato",main,125.63,2026-04-14T18:35:25.050100,1,vegetarian,Delicious vegetarian meal with fish garlic potato.
+m344,r36,Meal 344,"fish,garlic,lettuce",starter,37.9,2026-04-15T04:35:25.050123,0,"vegetarian,spicy,halal",Delicious vegetarian spicy halal meal with fish garlic lettuce.
+m345,r69,Meal 345,"egg,chicken,lettuce",drink,31.51,2026-04-16T13:35:25.050145,0,lowcal,Delicious lowcal meal with egg chicken lettuce.
+m346,r27,Meal 346,"onion,rice,chicken",drink,164.09,2026-04-16T13:35:25.050169,0,"vegetarian,spicy,lowcal",Delicious vegetarian spicy lowcal meal with onion rice chicken.
+m347,r6,Meal 347,"garlic,rice,beef",dessert,173.26,2026-04-16T13:35:25.050189,0,halal,Delicious halal meal with garlic rice beef.
+m348,r11,Meal 348,"cheese,bread,potato",drink,195.88,2026-04-14T11:35:25.050211,0,glutenfree,Delicious glutenfree meal with cheese bread potato.
+m349,r32,Meal 349,"garlic,potato,fish",drink,145.12,2026-04-14T07:35:25.050234,0,"vegan,seafood",Delicious vegan seafood meal with garlic potato fish.
+m350,r78,Meal 350,"beef,garlic,chicken",main,53.85,2026-04-14T20:35:25.050257,0,"glutenfree,halal,dessert",Delicious glutenfree halal dessert meal with beef garlic chicken.
+m351,r28,Meal 351,"tomato,onion,bread",starter,151.24,2026-04-15T01:35:25.050279,1,glutenfree,Delicious glutenfree meal with tomato onion bread.
+m352,r10,Meal 352,"garlic,rice,lettuce",main,190.05,2026-04-16T00:35:25.050302,1,"seafood,glutenfree,halal",Delicious seafood glutenfree halal meal with garlic rice lettuce.
+m353,r19,Meal 353,"egg,cheese,tomato",dessert,121.46,2026-04-17T09:35:25.050327,0,"halal,vegetarian,dessert",Delicious halal vegetarian dessert meal with egg cheese tomato.
+m354,r54,Meal 354,"lettuce,egg,chicken",starter,33.95,2026-04-16T19:35:25.050353,0,dessert,Delicious dessert meal with lettuce egg chicken.
+m355,r69,Meal 355,"lettuce,beef,bread",main,85.31,2026-04-16T23:35:25.050375,0,glutenfree,Delicious glutenfree meal with lettuce beef bread.
+m356,r35,Meal 356,"cheese,chicken,beef",starter,88.15,2026-04-15T14:35:25.050402,0,halal,Delicious halal meal with cheese chicken beef.
+m357,r16,Meal 357,"egg,cheese,onion",drink,37.2,2026-04-17T23:35:25.050423,0,glutenfree,Delicious glutenfree meal with egg cheese onion.
+m358,r74,Meal 358,"onion,beef,chicken",dessert,190.37,2026-04-14T11:35:25.050445,1,"glutenfree,seafood",Delicious glutenfree seafood meal with onion beef chicken.
+m359,r24,Meal 359,"fish,onion,rice",main,143.6,2026-04-14T23:35:25.050468,0,"glutenfree,lowcal",Delicious glutenfree lowcal meal with fish onion rice.
+m360,r17,Meal 360,"onion,cheese,chicken",dessert,147.35,2026-04-18T11:35:25.050490,0,lowcal,Delicious lowcal meal with onion cheese chicken.
+m361,r78,Meal 361,"fish,bread,egg",dessert,69.65,2026-04-16T06:35:25.050514,1,"kidfriendly,spicy",Delicious kidfriendly spicy meal with fish bread egg.
+m362,r67,Meal 362,"beef,cheese,lettuce",dessert,172.14,2026-04-17T16:35:25.050536,0,"halal,seafood,dessert",Delicious halal seafood dessert meal with beef cheese lettuce.
+m363,r10,Meal 363,"onion,chicken,beef",dessert,119.75,2026-04-17T13:35:25.050561,1,"halal,vegetarian,kidfriendly",Delicious halal vegetarian kidfriendly meal with onion chicken beef.
+m364,r2,Meal 364,"fish,egg,potato",main,92.98,2026-04-17T05:35:25.050588,0,"glutenfree,spicy",Delicious glutenfree spicy meal with fish egg potato.
+m365,r1,Meal 365,"egg,garlic,potato",main,129.33,2026-04-17T05:35:25.050611,0,"lowcal,dessert,vegetarian",Delicious lowcal dessert vegetarian meal with egg garlic potato.
+m366,r68,Meal 366,"beef,bread,rice",dessert,191.45,2026-04-16T07:35:25.050632,1,spicy,Delicious spicy meal with beef bread rice.
+m367,r64,Meal 367,"beef,bread,tomato",main,72.21,2026-04-18T00:35:25.050653,1,"spicy,dessert",Delicious spicy dessert meal with beef bread tomato.
+m368,r38,Meal 368,"egg,garlic,onion",starter,186.15,2026-04-15T16:35:25.050674,0,"halal,vegan",Delicious halal vegan meal with egg garlic onion.
+m369,r60,Meal 369,"chicken,onion,fish",dessert,83.7,2026-04-15T08:35:25.050696,0,"kidfriendly,vegan,spicy",Delicious kidfriendly vegan spicy meal with chicken onion fish.
+m370,r45,Meal 370,"chicken,beef,lettuce",starter,35.25,2026-04-16T04:35:25.050719,0,"spicy,lowcal,glutenfree",Delicious spicy lowcal glutenfree meal with chicken beef lettuce.
+m371,r53,Meal 371,"chicken,rice,cheese",drink,91.16,2026-04-14T18:35:25.050738,0,kidfriendly,Delicious kidfriendly meal with chicken rice cheese.
+m372,r47,Meal 372,"beef,fish,garlic",starter,83.67,2026-04-14T10:35:25.050777,1,"spicy,seafood",Delicious spicy seafood meal with beef fish garlic.
+m373,r1,Meal 373,"tomato,cheese,chicken",drink,95.79,2026-04-14T07:35:25.050799,0,"halal,vegetarian",Delicious halal vegetarian meal with tomato cheese chicken.
+m374,r5,Meal 374,"fish,garlic,cheese",drink,108.03,2026-04-14T05:35:25.050820,1,halal,Delicious halal meal with fish garlic cheese.
+m375,r17,Meal 375,"rice,beef,garlic",main,42.7,2026-04-17T19:35:25.050843,0,"lowcal,glutenfree",Delicious lowcal glutenfree meal with rice beef garlic.
+m376,r65,Meal 376,"chicken,garlic,bread",main,98.18,2026-04-15T20:35:25.050864,0,halal,Delicious halal meal with chicken garlic bread.
+m377,r37,Meal 377,"tomato,onion,rice",starter,64.9,2026-04-17T11:35:25.050885,0,"vegetarian,lowcal",Delicious vegetarian lowcal meal with tomato onion rice.
+m378,r34,Meal 378,"fish,beef,potato",starter,53.96,2026-04-16T20:35:25.050907,0,"halal,lowcal,vegetarian",Delicious halal lowcal vegetarian meal with fish beef potato.
+m379,r30,Meal 379,"lettuce,chicken,cheese",starter,96.73,2026-04-14T14:35:25.050927,0,spicy,Delicious spicy meal with lettuce chicken cheese.
+m380,r12,Meal 380,"lettuce,potato,cheese",starter,59.92,2026-04-17T07:35:25.050968,1,lowcal,Delicious lowcal meal with lettuce potato cheese.
+m381,r62,Meal 381,"lettuce,garlic,chicken",main,68.46,2026-04-15T04:35:25.051020,0,glutenfree,Delicious glutenfree meal with lettuce garlic chicken.
+m382,r45,Meal 382,"chicken,rice,egg",main,138.88,2026-04-13T14:35:25.051049,0,"lowcal,halal,spicy",Delicious lowcal halal spicy meal with chicken rice egg.
+m383,r28,Meal 383,"onion,beef,lettuce",dessert,190.7,2026-04-14T13:35:25.051123,0,"kidfriendly,seafood",Delicious kidfriendly seafood meal with onion beef lettuce.
+m384,r43,Meal 384,"garlic,chicken,potato",starter,79.62,2026-04-17T16:35:25.051156,0,"vegetarian,glutenfree",Delicious vegetarian glutenfree meal with garlic chicken potato.
+m385,r76,Meal 385,"cheese,tomato,onion",main,179.69,2026-04-15T15:35:25.051181,0,"dessert,halal,glutenfree",Delicious dessert halal glutenfree meal with cheese tomato onion.
+m386,r78,Meal 386,"onion,garlic,tomato",drink,186.59,2026-04-14T14:35:25.051248,0,vegan,Delicious vegan meal with onion garlic tomato.
+m387,r70,Meal 387,"fish,tomato,potato",starter,27.89,2026-04-17T10:35:25.051273,0,"dessert,seafood,glutenfree",Delicious dessert seafood glutenfree meal with fish tomato potato.
+m388,r54,Meal 388,"fish,garlic,beef",drink,32.19,2026-04-18T10:35:25.051339,1,"seafood,dessert,spicy",Delicious seafood dessert spicy meal with fish garlic beef.
+m389,r68,Meal 389,"cheese,rice,egg",main,162.99,2026-04-13T19:35:25.051369,0,"vegan,spicy,seafood",Delicious vegan spicy seafood meal with cheese rice egg.
+m390,r51,Meal 390,"rice,fish,potato",drink,92.15,2026-04-15T15:35:25.051394,0,"glutenfree,vegetarian",Delicious glutenfree vegetarian meal with rice fish potato.
+m391,r27,Meal 391,"rice,onion,tomato",main,178.25,2026-04-16T17:35:25.051454,1,vegan,Delicious vegan meal with rice onion tomato.
+m392,r65,Meal 392,"tomato,cheese,garlic",main,50.8,2026-04-16T12:35:25.051484,0,"glutenfree,seafood,spicy",Delicious glutenfree seafood spicy meal with tomato cheese garlic.
+m393,r69,Meal 393,"chicken,garlic,rice",dessert,186.9,2026-04-18T07:35:25.051540,0,seafood,Delicious seafood meal with chicken garlic rice.
+m394,r7,Meal 394,"beef,chicken,bread",dessert,78.42,2026-04-16T22:35:25.051564,0,"halal,glutenfree,seafood",Delicious halal glutenfree seafood meal with beef chicken bread.
+m395,r18,Meal 395,"chicken,garlic,egg",dessert,59.47,2026-04-17T23:35:25.051588,0,"seafood,dessert",Delicious seafood dessert meal with chicken garlic egg.
+m396,r23,Meal 396,"egg,lettuce,cheese",starter,167.03,2026-04-18T05:35:25.051611,0,"vegan,vegetarian",Delicious vegan vegetarian meal with egg lettuce cheese.
+m397,r42,Meal 397,"rice,fish,tomato",drink,86.36,2026-04-17T11:35:25.051636,1,"halal,lowcal",Delicious halal lowcal meal with rice fish tomato.
+m398,r12,Meal 398,"rice,egg,tomato",drink,189.8,2026-04-16T14:35:25.051658,0,"spicy,kidfriendly",Delicious spicy kidfriendly meal with rice egg tomato.
+m399,r37,Meal 399,"rice,egg,lettuce",starter,32.5,2026-04-17T05:35:25.051679,0,seafood,Delicious seafood meal with rice egg lettuce.
+m400,r55,Meal 400,"garlic,lettuce,beef",starter,150.82,2026-04-17T10:35:25.051701,0,kidfriendly,Delicious kidfriendly meal with garlic lettuce beef.
+m401,r78,Meal 401,"lettuce,chicken,beef",main,157.42,2026-04-17T23:35:25.051729,0,lowcal,Delicious lowcal meal with lettuce chicken beef.
+m402,r17,Meal 402,"cheese,rice,onion",main,192.37,2026-04-13T15:35:25.051826,0,vegetarian,Delicious vegetarian meal with cheese rice onion.
+m403,r70,Meal 403,"rice,fish,onion",drink,166.78,2026-04-18T08:35:25.051853,0,"dessert,vegetarian,kidfriendly",Delicious dessert vegetarian kidfriendly meal with rice fish onion.
+m404,r43,Meal 404,"chicken,potato,cheese",main,23.82,2026-04-16T22:35:25.051877,0,"spicy,halal",Delicious spicy halal meal with chicken potato cheese.
+m405,r14,Meal 405,"lettuce,rice,chicken",starter,24.32,2026-04-18T10:35:25.051900,1,"seafood,vegetarian,glutenfree",Delicious seafood vegetarian glutenfree meal with lettuce rice chicken.
+m406,r50,Meal 406,"garlic,cheese,tomato",drink,143.62,2026-04-18T11:35:25.051923,0,dessert,Delicious dessert meal with garlic cheese tomato.
+m407,r63,Meal 407,"tomato,beef,cheese",main,130.83,2026-04-15T11:35:25.051946,0,vegetarian,Delicious vegetarian meal with tomato beef cheese.
+m408,r47,Meal 408,"onion,rice,garlic",dessert,127.93,2026-04-15T20:35:25.051968,1,vegan,Delicious vegan meal with onion rice garlic.
+m409,r20,Meal 409,"beef,cheese,fish",dessert,187.92,2026-04-17T02:35:25.051989,0,"seafood,glutenfree,spicy",Delicious seafood glutenfree spicy meal with beef cheese fish.
+m410,r1,Meal 410,"bread,rice,lettuce",drink,166.64,2026-04-15T23:35:25.052013,0,spicy,Delicious spicy meal with bread rice lettuce.
+m411,r74,Meal 411,"beef,bread,rice",drink,83.47,2026-04-14T13:35:25.052036,1,"seafood,spicy",Delicious seafood spicy meal with beef bread rice.
+m412,r55,Meal 412,"rice,garlic,tomato",drink,118.88,2026-04-15T15:35:25.052066,1,"lowcal,dessert",Delicious lowcal dessert meal with rice garlic tomato.
+m413,r69,Meal 413,"onion,lettuce,potato",starter,146.56,2026-04-16T15:35:25.052089,0,"halal,lowcal,vegan",Delicious halal lowcal vegan meal with onion lettuce potato.
+m414,r47,Meal 414,"chicken,bread,potato",starter,185.76,2026-04-16T02:35:25.052110,0,halal,Delicious halal meal with chicken bread potato.
+m415,r45,Meal 415,"fish,rice,potato",drink,63.65,2026-04-18T13:35:25.052132,0,"spicy,seafood",Delicious spicy seafood meal with fish rice potato.
+m416,r8,Meal 416,"egg,rice,lettuce",main,145.3,2026-04-17T11:35:25.052160,1,"spicy,vegetarian,dessert",Delicious spicy vegetarian dessert meal with egg rice lettuce.
+m417,r48,Meal 417,"garlic,onion,beef",starter,25.43,2026-04-16T03:35:25.052183,0,vegetarian,Delicious vegetarian meal with garlic onion beef.
+m418,r19,Meal 418,"beef,chicken,onion",drink,46.95,2026-04-18T00:35:25.052206,0,halal,Delicious halal meal with beef chicken onion.
+m419,r61,Meal 419,"lettuce,bread,fish",main,71.62,2026-04-17T18:35:25.052229,0,"spicy,seafood,halal",Delicious spicy seafood halal meal with lettuce bread fish.
+m420,r8,Meal 420,"rice,chicken,lettuce",drink,142.38,2026-04-18T00:35:25.052253,1,"vegan,spicy,seafood",Delicious vegan spicy seafood meal with rice chicken lettuce.
+m421,r71,Meal 421,"tomato,lettuce,rice",main,113.87,2026-04-15T00:35:25.052277,0,"seafood,glutenfree,dessert",Delicious seafood glutenfree dessert meal with tomato lettuce rice.
+m422,r28,Meal 422,"lettuce,rice,potato",main,166.98,2026-04-16T19:35:25.052318,1,"vegan,halal",Delicious vegan halal meal with lettuce rice potato.
+m423,r62,Meal 423,"rice,chicken,bread",drink,55.05,2026-04-17T00:35:25.052344,0,"lowcal,glutenfree",Delicious lowcal glutenfree meal with rice chicken bread.
+m424,r14,Meal 424,"onion,bread,chicken",dessert,49.3,2026-04-14T20:35:25.052366,0,dessert,Delicious dessert meal with onion bread chicken.
+m425,r9,Meal 425,"cheese,tomato,potato",main,63.26,2026-04-14T15:35:25.052389,0,vegan,Delicious vegan meal with cheese tomato potato.
+m426,r73,Meal 426,"chicken,bread,beef",main,196.5,2026-04-15T05:35:25.052411,0,"vegan,kidfriendly,glutenfree",Delicious vegan kidfriendly glutenfree meal with chicken bread beef.
+m427,r51,Meal 427,"lettuce,bread,rice",main,79.64,2026-04-17T07:35:25.052434,0,"halal,dessert,lowcal",Delicious halal dessert lowcal meal with lettuce bread rice.
+m428,r65,Meal 428,"onion,lettuce,fish",main,72.22,2026-04-16T17:35:25.052454,0,vegan,Delicious vegan meal with onion lettuce fish.
+m429,r60,Meal 429,"egg,tomato,garlic",starter,158.39,2026-04-17T21:35:25.052484,0,vegetarian,Delicious vegetarian meal with egg tomato garlic.
+m430,r65,Meal 430,"rice,bread,cheese",drink,27.2,2026-04-15T12:35:25.052508,1,"glutenfree,dessert,halal",Delicious glutenfree dessert halal meal with rice bread cheese.
+m431,r31,Meal 431,"rice,onion,fish",main,45.67,2026-04-14T02:35:25.052533,0,vegetarian,Delicious vegetarian meal with rice onion fish.
+m432,r71,Meal 432,"beef,fish,bread",dessert,49.07,2026-04-14T11:35:25.052555,0,kidfriendly,Delicious kidfriendly meal with beef fish bread.
+m433,r74,Meal 433,"beef,rice,fish",drink,196.13,2026-04-14T23:35:25.052580,1,"dessert,vegetarian",Delicious dessert vegetarian meal with beef rice fish.
+m434,r18,Meal 434,"chicken,bread,cheese",drink,174.26,2026-04-15T17:35:25.052605,0,kidfriendly,Delicious kidfriendly meal with chicken bread cheese.
+m435,r57,Meal 435,"bread,beef,lettuce",drink,67.31,2026-04-16T06:35:25.052627,0,"glutenfree,dessert",Delicious glutenfree dessert meal with bread beef lettuce.
+m436,r80,Meal 436,"potato,chicken,rice",main,72.32,2026-04-18T03:35:25.052651,0,"vegan,halal,dessert",Delicious vegan halal dessert meal with potato chicken rice.
+m437,r73,Meal 437,"lettuce,fish,beef",drink,104.33,2026-04-15T10:35:25.052674,1,"vegetarian,halal",Delicious vegetarian halal meal with lettuce fish beef.
+m438,r14,Meal 438,"egg,beef,lettuce",drink,55.9,2026-04-17T16:35:25.052695,0,spicy,Delicious spicy meal with egg beef lettuce.
+m439,r9,Meal 439,"tomato,fish,beef",drink,26.89,2026-04-15T01:35:25.052717,0,"dessert,kidfriendly",Delicious dessert kidfriendly meal with tomato fish beef.
+m440,r61,Meal 440,"bread,onion,chicken",drink,31.23,2026-04-16T18:35:25.052739,0,halal,Delicious halal meal with bread onion chicken.
+m441,r56,Meal 441,"tomato,chicken,lettuce",dessert,134.42,2026-04-15T00:35:25.052761,0,"halal,vegan",Delicious halal vegan meal with tomato chicken lettuce.
+m442,r19,Meal 442,"lettuce,beef,cheese",drink,176.83,2026-04-18T05:35:25.052782,0,seafood,Delicious seafood meal with lettuce beef cheese.
+m443,r34,Meal 443,"beef,lettuce,bread",dessert,49.62,2026-04-17T14:35:25.052805,0,vegan,Delicious vegan meal with beef lettuce bread.
+m444,r54,Meal 444,"egg,lettuce,bread",drink,168.14,2026-04-18T10:35:25.052828,0,"kidfriendly,spicy",Delicious kidfriendly spicy meal with egg lettuce bread.
+m445,r10,Meal 445,"egg,bread,chicken",drink,188.09,2026-04-14T09:35:25.052853,1,"spicy,dessert,kidfriendly",Delicious spicy dessert kidfriendly meal with egg bread chicken.
+m446,r41,Meal 446,"cheese,potato,chicken",starter,134.17,2026-04-15T23:35:25.052877,0,lowcal,Delicious lowcal meal with cheese potato chicken.
+m447,r5,Meal 447,"lettuce,potato,rice",drink,58.9,2026-04-16T18:35:25.052900,0,halal,Delicious halal meal with lettuce potato rice.
+m448,r25,Meal 448,"bread,chicken,cheese",dessert,110.38,2026-04-18T08:35:25.052922,0,"vegan,dessert,lowcal",Delicious vegan dessert lowcal meal with bread chicken cheese.
+m449,r64,Meal 449,"bread,egg,potato",dessert,40.41,2026-04-15T20:35:25.052945,0,"kidfriendly,lowcal,halal",Delicious kidfriendly lowcal halal meal with bread egg potato.
+m450,r59,Meal 450,"potato,onion,rice",drink,88.68,2026-04-16T11:35:25.052971,1,"dessert,spicy",Delicious dessert spicy meal with potato onion rice.
+m451,r37,Meal 451,"beef,egg,chicken",drink,38.66,2026-04-16T20:35:25.052998,0,"vegetarian,glutenfree,lowcal",Delicious vegetarian glutenfree lowcal meal with beef egg chicken.
+m452,r57,Meal 452,"lettuce,tomato,garlic",drink,119.29,2026-04-17T17:35:25.053023,0,"vegan,seafood,lowcal",Delicious vegan seafood lowcal meal with lettuce tomato garlic.
+m453,r26,Meal 453,"fish,lettuce,garlic",dessert,160.8,2026-04-13T14:35:25.053051,0,"vegetarian,dessert",Delicious vegetarian dessert meal with fish lettuce garlic.
+m454,r35,Meal 454,"lettuce,garlic,tomato",drink,25.88,2026-04-13T14:35:25.053076,0,"seafood,glutenfree,lowcal",Delicious seafood glutenfree lowcal meal with lettuce garlic tomato.
+m455,r20,Meal 455,"bread,rice,onion",starter,120.03,2026-04-15T21:35:25.053099,1,"glutenfree,dessert",Delicious glutenfree dessert meal with bread rice onion.
+m456,r25,Meal 456,"onion,lettuce,rice",drink,195.92,2026-04-16T23:35:25.053137,0,"lowcal,vegan,glutenfree",Delicious lowcal vegan glutenfree meal with onion lettuce rice.
+m457,r52,Meal 457,"lettuce,tomato,beef",starter,110.77,2026-04-17T08:35:25.053159,1,"glutenfree,spicy",Delicious glutenfree spicy meal with lettuce tomato beef.
+m458,r34,Meal 458,"beef,egg,chicken",main,133.2,2026-04-15T21:35:25.053185,0,"spicy,dessert,vegetarian",Delicious spicy dessert vegetarian meal with beef egg chicken.
+m459,r4,Meal 459,"lettuce,chicken,rice",dessert,53.58,2026-04-16T00:35:25.053208,0,"glutenfree,vegetarian,seafood",Delicious glutenfree vegetarian seafood meal with lettuce chicken rice.
+m460,r39,Meal 460,"tomato,lettuce,cheese",main,69.49,2026-04-17T02:35:25.053230,0,glutenfree,Delicious glutenfree meal with tomato lettuce cheese.
+m461,r3,Meal 461,"onion,beef,garlic",dessert,67.16,2026-04-14T08:35:25.053252,0,"vegetarian,glutenfree,halal",Delicious vegetarian glutenfree halal meal with onion beef garlic.
+m462,r12,Meal 462,"bread,tomato,lettuce",drink,163.18,2026-04-14T02:35:25.053274,1,kidfriendly,Delicious kidfriendly meal with bread tomato lettuce.
+m463,r10,Meal 463,"garlic,lettuce,egg",dessert,134.04,2026-04-18T07:35:25.053295,1,"vegetarian,halal",Delicious vegetarian halal meal with garlic lettuce egg.
+m464,r21,Meal 464,"chicken,rice,onion",main,41.1,2026-04-16T22:35:25.053315,0,seafood,Delicious seafood meal with chicken rice onion.
+m465,r45,Meal 465,"rice,potato,cheese",main,54.71,2026-04-18T12:35:25.053338,0,"glutenfree,vegan",Delicious glutenfree vegan meal with rice potato cheese.
+m466,r69,Meal 466,"potato,rice,tomato",dessert,40.66,2026-04-18T04:35:25.053358,0,glutenfree,Delicious glutenfree meal with potato rice tomato.
+m467,r4,Meal 467,"beef,rice,cheese",drink,55.86,2026-04-15T01:35:25.053380,0,"spicy,halal",Delicious spicy halal meal with beef rice cheese.
+m468,r45,Meal 468,"egg,fish,lettuce",drink,186.02,2026-04-16T07:35:25.053403,0,"glutenfree,seafood,halal",Delicious glutenfree seafood halal meal with egg fish lettuce.
+m469,r23,Meal 469,"lettuce,beef,onion",dessert,49.82,2026-04-17T19:35:25.053424,0,seafood,Delicious seafood meal with lettuce beef onion.
+m470,r63,Meal 470,"onion,cheese,bread",main,129.31,2026-04-16T21:35:25.053449,1,"kidfriendly,lowcal",Delicious kidfriendly lowcal meal with onion cheese bread.
+m471,r26,Meal 471,"beef,fish,rice",main,192.46,2026-04-18T07:35:25.053473,0,"dessert,glutenfree,kidfriendly",Delicious dessert glutenfree kidfriendly meal with beef fish rice.
+m472,r76,Meal 472,"lettuce,chicken,beef",dessert,97.29,2026-04-14T13:35:25.053496,0,"seafood,dessert",Delicious seafood dessert meal with lettuce chicken beef.
+m473,r46,Meal 473,"tomato,garlic,bread",starter,160.31,2026-04-15T13:35:25.053517,0,vegetarian,Delicious vegetarian meal with tomato garlic bread.
+m474,r2,Meal 474,"tomato,fish,onion",dessert,181.77,2026-04-17T19:35:25.053538,0,"vegan,dessert",Delicious vegan dessert meal with tomato fish onion.
+m475,r50,Meal 475,"beef,potato,cheese",main,123.31,2026-04-17T09:35:25.053560,1,"halal,glutenfree",Delicious halal glutenfree meal with beef potato cheese.
+m476,r56,Meal 476,"tomato,chicken,fish",main,198.25,2026-04-16T05:35:25.053582,1,"dessert,halal",Delicious dessert halal meal with tomato chicken fish.
+m477,r16,Meal 477,"rice,onion,bread",drink,62.56,2026-04-16T17:35:25.053602,0,kidfriendly,Delicious kidfriendly meal with rice onion bread.
+m478,r37,Meal 478,"fish,cheese,rice",drink,26.66,2026-04-18T01:35:25.053622,0,vegan,Delicious vegan meal with fish cheese rice.
+m479,r44,Meal 479,"beef,lettuce,cheese",dessert,155.66,2026-04-15T01:35:25.053645,1,"vegan,vegetarian,halal",Delicious vegan vegetarian halal meal with beef lettuce cheese.
+m480,r11,Meal 480,"chicken,lettuce,cheese",drink,108.8,2026-04-17T07:35:25.053666,0,"dessert,kidfriendly,seafood",Delicious dessert kidfriendly seafood meal with chicken lettuce cheese.
+m481,r48,Meal 481,"chicken,egg,rice",dessert,175.05,2026-04-14T03:35:25.053688,1,"vegetarian,vegan,glutenfree",Delicious vegetarian vegan glutenfree meal with chicken egg rice.
+m482,r29,Meal 482,"tomato,bread,potato",main,66.74,2026-04-13T14:35:25.053710,0,vegetarian,Delicious vegetarian meal with tomato bread potato.
+m483,r15,Meal 483,"beef,cheese,bread",drink,68.58,2026-04-17T06:35:25.053731,0,seafood,Delicious seafood meal with beef cheese bread.
+m484,r18,Meal 484,"bread,rice,onion",drink,134.64,2026-04-18T07:35:25.053753,0,"kidfriendly,vegetarian,glutenfree",Delicious kidfriendly vegetarian glutenfree meal with bread rice onion.
+m485,r67,Meal 485,"fish,cheese,bread",drink,60.65,2026-04-17T16:35:25.053775,0,"halal,kidfriendly,dessert",Delicious halal kidfriendly dessert meal with fish cheese bread.
+m486,r38,Meal 486,"tomato,garlic,egg",main,33.53,2026-04-17T06:35:25.053797,1,"vegetarian,dessert,seafood",Delicious vegetarian dessert seafood meal with tomato garlic egg.
+m487,r8,Meal 487,"garlic,tomato,fish",drink,53.83,2026-04-17T22:35:25.053818,0,vegan,Delicious vegan meal with garlic tomato fish.
+m488,r44,Meal 488,"potato,bread,cheese",drink,137.95,2026-04-17T08:35:25.053839,0,glutenfree,Delicious glutenfree meal with potato bread cheese.
+m489,r17,Meal 489,"lettuce,fish,onion",starter,160.4,2026-04-16T07:35:25.053860,0,dessert,Delicious dessert meal with lettuce fish onion.
+m490,r9,Meal 490,"garlic,cheese,onion",main,46.51,2026-04-17T00:35:25.053887,0,"lowcal,spicy",Delicious lowcal spicy meal with garlic cheese onion.
+m491,r15,Meal 491,"fish,rice,cheese",drink,139.14,2026-04-13T17:35:25.053912,1,vegan,Delicious vegan meal with fish rice cheese.
+m492,r46,Meal 492,"bread,lettuce,tomato",drink,110.39,2026-04-14T09:35:25.053933,0,"vegetarian,glutenfree",Delicious vegetarian glutenfree meal with bread lettuce tomato.
+m493,r7,Meal 493,"beef,chicken,lettuce",drink,54.91,2026-04-17T11:35:25.053956,0,"seafood,dessert",Delicious seafood dessert meal with beef chicken lettuce.
+m494,r52,Meal 494,"potato,onion,fish",drink,39.65,2026-04-16T08:35:25.053977,0,seafood,Delicious seafood meal with potato onion fish.
+m495,r32,Meal 495,"beef,chicken,garlic",dessert,62.98,2026-04-16T15:35:25.053998,0,halal,Delicious halal meal with beef chicken garlic.
+m496,r36,Meal 496,"lettuce,egg,beef",dessert,109.13,2026-04-14T18:35:25.054017,0,lowcal,Delicious lowcal meal with lettuce egg beef.
+m497,r27,Meal 497,"egg,chicken,beef",drink,153.04,2026-04-14T13:35:25.054036,0,"seafood,glutenfree",Delicious seafood glutenfree meal with egg chicken beef.
+m498,r22,Meal 498,"rice,bread,fish",main,139.89,2026-04-14T08:35:25.054064,1,"vegetarian,spicy",Delicious vegetarian spicy meal with rice bread fish.
+m499,r43,Meal 499,"cheese,beef,rice",main,126.92,2026-04-17T04:35:25.054086,1,spicy,Delicious spicy meal with cheese beef rice.
+m500,r75,Meal 500,"tomato,fish,beef",main,122.11,2026-04-13T19:35:25.054107,0,kidfriendly,Delicious kidfriendly meal with tomato fish beef.
+m501,r30,Meal 501,"rice,beef,garlic",dessert,101.47,2026-04-15T04:35:25.054127,0,"glutenfree,spicy,lowcal",Delicious glutenfree spicy lowcal meal with rice beef garlic.
+m502,r70,Meal 502,"bread,fish,chicken",dessert,74.2,2026-04-17T23:35:25.054147,0,"kidfriendly,seafood",Delicious kidfriendly seafood meal with bread fish chicken.
+m503,r67,Meal 503,"garlic,potato,chicken",drink,174.13,2026-04-14T08:35:25.054168,0,"kidfriendly,vegetarian,spicy",Delicious kidfriendly vegetarian spicy meal with garlic potato chicken.
+m504,r46,Meal 504,"onion,lettuce,bread",main,54.89,2026-04-14T16:35:25.054190,1,"vegan,halal",Delicious vegan halal meal with onion lettuce bread.
+m505,r14,Meal 505,"potato,rice,cheese",dessert,179.84,2026-04-18T10:35:25.054214,1,"glutenfree,kidfriendly",Delicious glutenfree kidfriendly meal with potato rice cheese.
+m506,r76,Meal 506,"tomato,chicken,onion",dessert,170.15,2026-04-16T08:35:25.054235,0,"seafood,glutenfree",Delicious seafood glutenfree meal with tomato chicken onion.
+m507,r56,Meal 507,"beef,chicken,fish",starter,103.94,2026-04-18T12:35:25.054255,0,"dessert,seafood",Delicious dessert seafood meal with beef chicken fish.
+m508,r67,Meal 508,"cheese,fish,egg",dessert,22.81,2026-04-13T22:35:25.054520,0,"glutenfree,spicy",Delicious glutenfree spicy meal with cheese fish egg.
+m509,r28,Meal 509,"fish,cheese,chicken",dessert,138.85,2026-04-15T21:35:25.054588,0,"vegetarian,vegan",Delicious vegetarian vegan meal with fish cheese chicken.
+m510,r7,Meal 510,"cheese,potato,garlic",main,148.38,2026-04-14T09:35:25.054614,0,"spicy,dessert",Delicious spicy dessert meal with cheese potato garlic.
+m511,r26,Meal 511,"tomato,chicken,fish",dessert,64.77,2026-04-18T13:35:25.054639,1,"vegetarian,seafood",Delicious vegetarian seafood meal with tomato chicken fish.
+m512,r55,Meal 512,"cheese,onion,egg",drink,142.21,2026-04-14T12:35:25.054665,0,"vegetarian,seafood",Delicious vegetarian seafood meal with cheese onion egg.
+m513,r75,Meal 513,"cheese,rice,lettuce",starter,74.19,2026-04-16T12:35:25.054687,0,halal,Delicious halal meal with cheese rice lettuce.
+m514,r39,Meal 514,"lettuce,beef,rice",drink,144.94,2026-04-16T09:35:25.054709,0,"kidfriendly,spicy,halal",Delicious kidfriendly spicy halal meal with lettuce beef rice.
+m515,r60,Meal 515,"lettuce,egg,fish",main,192.35,2026-04-13T17:35:25.054731,1,"lowcal,kidfriendly",Delicious lowcal kidfriendly meal with lettuce egg fish.
+m516,r12,Meal 516,"tomato,onion,potato",starter,131.76,2026-04-15T13:35:25.054753,0,seafood,Delicious seafood meal with tomato onion potato.
+m517,r7,Meal 517,"garlic,chicken,fish",drink,171.06,2026-04-17T21:35:25.054787,0,"spicy,lowcal",Delicious spicy lowcal meal with garlic chicken fish.
+m518,r8,Meal 518,"onion,beef,cheese",drink,144.31,2026-04-16T14:35:25.054809,0,"vegetarian,dessert",Delicious vegetarian dessert meal with onion beef cheese.
+m519,r16,Meal 519,"tomato,potato,rice",drink,44.55,2026-04-16T13:35:25.054829,0,"glutenfree,vegan,dessert",Delicious glutenfree vegan dessert meal with tomato potato rice.
+m520,r39,Meal 520,"fish,onion,tomato",main,20.01,2026-04-14T04:35:25.054850,0,"seafood,vegan,lowcal",Delicious seafood vegan lowcal meal with fish onion tomato.
+m521,r67,Meal 521,"tomato,beef,fish",drink,90.33,2026-04-13T17:35:25.054870,0,halal,Delicious halal meal with tomato beef fish.
+m522,r39,Meal 522,"tomato,potato,cheese",drink,174.68,2026-04-17T23:35:25.054895,0,"kidfriendly,spicy",Delicious kidfriendly spicy meal with tomato potato cheese.
+m523,r56,Meal 523,"rice,egg,tomato",starter,105.71,2026-04-14T11:35:25.054915,0,vegan,Delicious vegan meal with rice egg tomato.
+m524,r38,Meal 524,"garlic,cheese,lettuce",main,103.51,2026-04-15T15:35:25.054937,1,"vegetarian,kidfriendly,spicy",Delicious vegetarian kidfriendly spicy meal with garlic cheese lettuce.
+m525,r19,Meal 525,"fish,beef,onion",main,124.5,2026-04-15T15:35:25.054957,0,seafood,Delicious seafood meal with fish beef onion.
+m526,r80,Meal 526,"rice,fish,garlic",main,196.72,2026-04-15T01:35:25.055136,0,"vegan,dessert",Delicious vegan dessert meal with rice fish garlic.
+m527,r65,Meal 527,"potato,lettuce,egg",starter,138.07,2026-04-13T22:35:25.055165,0,"halal,dessert,kidfriendly",Delicious halal dessert kidfriendly meal with potato lettuce egg.
+m528,r73,Meal 528,"cheese,garlic,egg",drink,32.28,2026-04-18T12:35:25.055188,1,"kidfriendly,spicy",Delicious kidfriendly spicy meal with cheese garlic egg.
+m529,r49,Meal 529,"rice,bread,onion",dessert,125.21,2026-04-16T16:35:25.055216,1,"spicy,seafood",Delicious spicy seafood meal with rice bread onion.
+m530,r9,Meal 530,"egg,rice,tomato",main,109.9,2026-04-14T02:35:25.055239,1,vegan,Delicious vegan meal with egg rice tomato.
+m531,r42,Meal 531,"beef,rice,lettuce",drink,186.03,2026-04-17T14:35:25.055261,0,halal,Delicious halal meal with beef rice lettuce.
+m532,r79,Meal 532,"egg,beef,fish",dessert,129.18,2026-04-17T15:35:25.055280,0,"vegetarian,vegan",Delicious vegetarian vegan meal with egg beef fish.
+m533,r23,Meal 533,"lettuce,rice,onion",starter,55.23,2026-04-16T13:35:25.055300,1,"vegetarian,kidfriendly",Delicious vegetarian kidfriendly meal with lettuce rice onion.
+m534,r57,Meal 534,"egg,rice,lettuce",starter,35.48,2026-04-17T22:35:25.055319,0,"seafood,halal,vegetarian",Delicious seafood halal vegetarian meal with egg rice lettuce.
+m535,r13,Meal 535,"rice,chicken,bread",drink,122.29,2026-04-17T17:35:25.055339,0,vegan,Delicious vegan meal with rice chicken bread.
+m536,r44,Meal 536,"fish,tomato,garlic",drink,110.15,2026-04-16T15:35:25.055359,0,glutenfree,Delicious glutenfree meal with fish tomato garlic.
+m537,r80,Meal 537,"lettuce,garlic,egg",main,122.45,2026-04-18T05:35:25.055379,0,"spicy,vegetarian,halal",Delicious spicy vegetarian halal meal with lettuce garlic egg.
+m538,r67,Meal 538,"fish,tomato,chicken",dessert,24.06,2026-04-16T18:35:25.055398,0,"vegetarian,glutenfree",Delicious vegetarian glutenfree meal with fish tomato chicken.
+m539,r33,Meal 539,"rice,cheese,beef",starter,173.58,2026-04-16T10:35:25.055417,0,"dessert,vegetarian",Delicious dessert vegetarian meal with rice cheese beef.
+m540,r52,Meal 540,"fish,cheese,chicken",dessert,95.85,2026-04-13T18:35:25.055443,0,"vegan,vegetarian,seafood",Delicious vegan vegetarian seafood meal with fish cheese chicken.
+m541,r43,Meal 541,"tomato,potato,bread",main,62.41,2026-04-18T12:35:25.055464,0,spicy,Delicious spicy meal with tomato potato bread.
+m542,r73,Meal 542,"lettuce,onion,garlic",main,179.75,2026-04-18T12:35:25.055484,1,"vegan,dessert,glutenfree",Delicious vegan dessert glutenfree meal with lettuce onion garlic.
+m543,r17,Meal 543,"chicken,fish,potato",dessert,97.67,2026-04-14T18:35:25.055505,0,"vegan,vegetarian",Delicious vegan vegetarian meal with chicken fish potato.
+m544,r30,Meal 544,"chicken,tomato,potato",drink,142.75,2026-04-16T19:35:25.055528,0,vegan,Delicious vegan meal with chicken tomato potato.
+m545,r71,Meal 545,"lettuce,rice,egg",drink,118.92,2026-04-17T07:35:25.055548,0,"vegan,lowcal",Delicious vegan lowcal meal with lettuce rice egg.
+m546,r57,Meal 546,"bread,tomato,egg",main,62.87,2026-04-15T21:35:25.055567,0,dessert,Delicious dessert meal with bread tomato egg.
+m547,r76,Meal 547,"lettuce,potato,onion",main,177.19,2026-04-13T19:35:25.055587,0,halal,Delicious halal meal with lettuce potato onion.
+m548,r8,Meal 548,"rice,fish,egg",main,76.54,2026-04-15T02:35:25.055609,0,vegan,Delicious vegan meal with rice fish egg.
+m549,r38,Meal 549,"fish,garlic,beef",main,33.75,2026-04-17T02:35:25.055629,0,lowcal,Delicious lowcal meal with fish garlic beef.
+m550,r64,Meal 550,"egg,cheese,bread",dessert,176.41,2026-04-17T17:35:25.055650,0,"dessert,halal,kidfriendly",Delicious dessert halal kidfriendly meal with egg cheese bread.
+m551,r68,Meal 551,"chicken,bread,lettuce",drink,70.36,2026-04-17T08:35:25.055670,0,"dessert,vegetarian",Delicious dessert vegetarian meal with chicken bread lettuce.
+m552,r18,Meal 552,"potato,tomato,beef",starter,26.46,2026-04-15T13:35:25.055690,0,"halal,seafood,dessert",Delicious halal seafood dessert meal with potato tomato beef.
+m553,r57,Meal 553,"fish,chicken,cheese",drink,74.07,2026-04-15T01:35:25.055710,0,"kidfriendly,vegetarian,vegan",Delicious kidfriendly vegetarian vegan meal with fish chicken cheese.
+m554,r8,Meal 554,"chicken,lettuce,garlic",main,60.4,2026-04-15T22:35:25.055734,1,"lowcal,kidfriendly",Delicious lowcal kidfriendly meal with chicken lettuce garlic.
+m555,r24,Meal 555,"cheese,chicken,potato",dessert,188.7,2026-04-17T15:35:25.055754,0,"lowcal,vegan,dessert",Delicious lowcal vegan dessert meal with cheese chicken potato.
+m556,r34,Meal 556,"egg,onion,lettuce",drink,160.87,2026-04-18T04:35:25.055776,0,"halal,vegan,spicy",Delicious halal vegan spicy meal with egg onion lettuce.
+m557,r14,Meal 557,"potato,fish,lettuce",dessert,49.26,2026-04-16T15:35:25.055797,1,"lowcal,seafood,glutenfree",Delicious lowcal seafood glutenfree meal with potato fish lettuce.
+m558,r60,Meal 558,"cheese,garlic,egg",starter,158.84,2026-04-14T00:35:25.055820,0,"halal,spicy,vegan",Delicious halal spicy vegan meal with cheese garlic egg.
+m559,r44,Meal 559,"cheese,bread,egg",dessert,160.84,2026-04-17T02:35:25.055840,0,"lowcal,vegan,seafood",Delicious lowcal vegan seafood meal with cheese bread egg.
+m560,r16,Meal 560,"rice,fish,garlic",drink,21.6,2026-04-13T16:35:25.055862,0,"dessert,seafood",Delicious dessert seafood meal with rice fish garlic.
+m561,r46,Meal 561,"lettuce,chicken,onion",dessert,181.47,2026-04-14T00:35:25.055881,0,"glutenfree,halal",Delicious glutenfree halal meal with lettuce chicken onion.
+m562,r9,Meal 562,"cheese,egg,fish",starter,133.46,2026-04-14T06:35:25.055905,0,"spicy,seafood",Delicious spicy seafood meal with cheese egg fish.
+m563,r80,Meal 563,"garlic,chicken,rice",drink,124.38,2026-04-17T05:35:25.055926,0,"vegan,halal,glutenfree",Delicious vegan halal glutenfree meal with garlic chicken rice.
+m564,r71,Meal 564,"cheese,egg,chicken",dessert,117.28,2026-04-17T04:35:25.055948,0,"halal,vegan,dessert",Delicious halal vegan dessert meal with cheese egg chicken.
+m565,r77,Meal 565,"beef,egg,potato",main,111.99,2026-04-15T22:35:25.055968,0,dessert,Delicious dessert meal with beef egg potato.
+m566,r27,Meal 566,"beef,garlic,lettuce",dessert,45.75,2026-04-18T06:35:25.055987,0,"dessert,lowcal",Delicious dessert lowcal meal with beef garlic lettuce.
+m567,r78,Meal 567,"garlic,bread,fish",main,48.86,2026-04-15T03:35:25.056006,0,"dessert,lowcal",Delicious dessert lowcal meal with garlic bread fish.
+m568,r38,Meal 568,"beef,onion,tomato",dessert,111.94,2026-04-17T21:35:25.056030,0,vegan,Delicious vegan meal with beef onion tomato.
+m569,r28,Meal 569,"lettuce,garlic,beef",starter,121.77,2026-04-13T23:35:25.056052,1,"vegan,spicy",Delicious vegan spicy meal with lettuce garlic beef.
+m570,r69,Meal 570,"fish,garlic,potato",drink,77.05,2026-04-16T08:35:25.056073,0,"vegetarian,vegan,seafood",Delicious vegetarian vegan seafood meal with fish garlic potato.
+m571,r74,Meal 571,"tomato,bread,egg",dessert,154.67,2026-04-16T00:35:25.056094,0,"halal,dessert",Delicious halal dessert meal with tomato bread egg.
+m572,r31,Meal 572,"beef,bread,potato",main,184.63,2026-04-16T06:35:25.056130,1,"lowcal,dessert",Delicious lowcal dessert meal with beef bread potato.
+m573,r78,Meal 573,"lettuce,tomato,onion",starter,186.63,2026-04-17T23:35:25.056149,0,kidfriendly,Delicious kidfriendly meal with lettuce tomato onion.
+m574,r53,Meal 574,"cheese,bread,garlic",main,93.53,2026-04-14T05:35:25.056170,0,"spicy,seafood,lowcal",Delicious spicy seafood lowcal meal with cheese bread garlic.
+m575,r74,Meal 575,"fish,chicken,rice",drink,67.41,2026-04-14T05:35:25.056194,1,"halal,spicy",Delicious halal spicy meal with fish chicken rice.
+m576,r13,Meal 576,"lettuce,chicken,rice",starter,112.68,2026-04-13T23:35:25.056215,1,vegan,Delicious vegan meal with lettuce chicken rice.
+m577,r55,Meal 577,"egg,potato,tomato",dessert,41.43,2026-04-17T09:35:25.056235,0,"spicy,lowcal",Delicious spicy lowcal meal with egg potato tomato.
+m578,r76,Meal 578,"egg,bread,fish",drink,133.55,2026-04-18T10:35:25.056257,1,"vegetarian,vegan,kidfriendly",Delicious vegetarian vegan kidfriendly meal with egg bread fish.
+m579,r38,Meal 579,"egg,onion,potato",starter,181.21,2026-04-14T00:35:25.056277,0,"spicy,glutenfree",Delicious spicy glutenfree meal with egg onion potato.
+m580,r59,Meal 580,"rice,potato,onion",main,61.81,2026-04-15T01:35:25.056301,1,"dessert,kidfriendly",Delicious dessert kidfriendly meal with rice potato onion.
+m581,r44,Meal 581,"potato,onion,egg",drink,71.35,2026-04-18T02:35:25.056322,1,glutenfree,Delicious glutenfree meal with potato onion egg.
+m582,r41,Meal 582,"chicken,tomato,lettuce",dessert,123.52,2026-04-16T08:35:25.056345,0,spicy,Delicious spicy meal with chicken tomato lettuce.
+m583,r13,Meal 583,"beef,cheese,garlic",drink,60.25,2026-04-16T04:35:25.056366,0,"seafood,spicy",Delicious seafood spicy meal with beef cheese garlic.
+m584,r37,Meal 584,"garlic,cheese,rice",starter,119.39,2026-04-14T02:35:25.056386,0,"vegetarian,halal",Delicious vegetarian halal meal with garlic cheese rice.
+m585,r4,Meal 585,"fish,chicken,bread",dessert,189.53,2026-04-14T16:35:25.056409,1,"vegan,halal,glutenfree",Delicious vegan halal glutenfree meal with fish chicken bread.
+m586,r57,Meal 586,"beef,egg,fish",drink,108.79,2026-04-18T07:35:25.056430,0,"spicy,kidfriendly,glutenfree",Delicious spicy kidfriendly glutenfree meal with beef egg fish.
+m587,r18,Meal 587,"beef,tomato,egg",starter,111.27,2026-04-15T07:35:25.056454,0,"vegetarian,dessert",Delicious vegetarian dessert meal with beef tomato egg.
+m588,r59,Meal 588,"egg,bread,chicken",main,187.83,2026-04-15T21:35:25.056476,0,"glutenfree,vegetarian,dessert",Delicious glutenfree vegetarian dessert meal with egg bread chicken.
+m589,r25,Meal 589,"rice,onion,lettuce",starter,141.2,2026-04-18T05:35:25.056498,0,"vegan,glutenfree,vegetarian",Delicious vegan glutenfree vegetarian meal with rice onion lettuce.
+m590,r61,Meal 590,"rice,fish,cheese",starter,134.26,2026-04-14T06:35:25.056522,0,kidfriendly,Delicious kidfriendly meal with rice fish cheese.
+m591,r67,Meal 591,"beef,fish,potato",starter,147.8,2026-04-16T20:35:25.056693,0,"halal,vegan,glutenfree",Delicious halal vegan glutenfree meal with beef fish potato.
+m592,r54,Meal 592,"onion,tomato,bread",starter,178.02,2026-04-16T03:35:25.056728,0,"seafood,lowcal,dessert",Delicious seafood lowcal dessert meal with onion tomato bread.
+m593,r38,Meal 593,"garlic,lettuce,onion",drink,73.18,2026-04-15T11:35:25.056751,0,"kidfriendly,glutenfree,lowcal",Delicious kidfriendly glutenfree lowcal meal with garlic lettuce onion.
+m594,r15,Meal 594,"bread,tomato,lettuce",starter,103.65,2026-04-14T04:35:25.056793,0,"lowcal,kidfriendly",Delicious lowcal kidfriendly meal with bread tomato lettuce.
+m595,r15,Meal 595,"fish,egg,onion",starter,25.21,2026-04-15T18:35:25.056817,0,"lowcal,spicy",Delicious lowcal spicy meal with fish egg onion.
+m596,r65,Meal 596,"chicken,potato,bread",dessert,94.02,2026-04-14T23:35:25.056838,1,lowcal,Delicious lowcal meal with chicken potato bread.
+m597,r55,Meal 597,"cheese,fish,tomato",main,75.53,2026-04-15T09:35:25.056860,1,"seafood,vegan",Delicious seafood vegan meal with cheese fish tomato.
+m598,r29,Meal 598,"garlic,beef,onion",dessert,43.26,2026-04-16T20:35:25.056888,0,"spicy,halal,lowcal",Delicious spicy halal lowcal meal with garlic beef onion.
+m599,r3,Meal 599,"bread,potato,beef",main,113.36,2026-04-17T01:35:25.056909,0,"vegetarian,dessert",Delicious vegetarian dessert meal with bread potato beef.
+m600,r69,Meal 600,"potato,lettuce,tomato",starter,183.92,2026-04-15T03:35:25.056929,0,spicy,Delicious spicy meal with potato lettuce tomato.
+m601,r53,Meal 601,"egg,tomato,chicken",main,155.92,2026-04-13T18:35:25.056951,0,glutenfree,Delicious glutenfree meal with egg tomato chicken.
+m602,r65,Meal 602,"rice,cheese,garlic",starter,133.68,2026-04-13T17:35:25.056972,0,"kidfriendly,vegan",Delicious kidfriendly vegan meal with rice cheese garlic.
+m603,r5,Meal 603,"garlic,lettuce,rice",dessert,175.16,2026-04-17T22:35:25.056994,0,"vegetarian,lowcal",Delicious vegetarian lowcal meal with garlic lettuce rice.
+m604,r10,Meal 604,"egg,potato,onion",starter,37.2,2026-04-18T11:35:25.057017,1,"lowcal,vegan,kidfriendly",Delicious lowcal vegan kidfriendly meal with egg potato onion.
+m605,r25,Meal 605,"potato,chicken,cheese",drink,56.48,2026-04-15T01:35:25.057037,0,"seafood,dessert,halal",Delicious seafood dessert halal meal with potato chicken cheese.
+m606,r74,Meal 606,"lettuce,beef,tomato",dessert,107.0,2026-04-15T18:35:25.057059,0,"lowcal,seafood",Delicious lowcal seafood meal with lettuce beef tomato.
+m607,r49,Meal 607,"egg,lettuce,bread",main,101.41,2026-04-17T15:35:25.057083,0,kidfriendly,Delicious kidfriendly meal with egg lettuce bread.
+m608,r51,Meal 608,"bread,fish,onion",dessert,79.84,2026-04-14T03:35:25.057103,0,kidfriendly,Delicious kidfriendly meal with bread fish onion.
+m609,r13,Meal 609,"fish,onion,tomato",starter,92.58,2026-04-14T00:35:25.057122,1,"spicy,halal,lowcal",Delicious spicy halal lowcal meal with fish onion tomato.
+m610,r67,Meal 610,"fish,cheese,lettuce",dessert,170.18,2026-04-15T05:35:25.057145,0,"halal,vegan,lowcal",Delicious halal vegan lowcal meal with fish cheese lettuce.
+m611,r42,Meal 611,"egg,tomato,potato",drink,118.21,2026-04-17T19:35:25.057167,0,"lowcal,vegan,spicy",Delicious lowcal vegan spicy meal with egg tomato potato.
+m612,r31,Meal 612,"potato,egg,beef",main,96.63,2026-04-18T11:35:25.057190,0,"kidfriendly,glutenfree",Delicious kidfriendly glutenfree meal with potato egg beef.
+m613,r49,Meal 613,"rice,potato,beef",starter,98.77,2026-04-14T11:35:25.057210,0,vegan,Delicious vegan meal with rice potato beef.
+m614,r5,Meal 614,"garlic,potato,fish",drink,91.89,2026-04-14T07:35:25.057231,0,"kidfriendly,spicy",Delicious kidfriendly spicy meal with garlic potato fish.
+m615,r16,Meal 615,"potato,bread,onion",dessert,121.49,2026-04-18T07:35:25.057256,0,"seafood,glutenfree",Delicious seafood glutenfree meal with potato bread onion.
+m616,r19,Meal 616,"onion,bread,potato",dessert,104.98,2026-04-16T19:35:25.057365,0,"glutenfree,halal",Delicious glutenfree halal meal with onion bread potato.
+m617,r43,Meal 617,"egg,fish,chicken",drink,52.26,2026-04-15T06:35:25.057395,1,"spicy,glutenfree,seafood",Delicious spicy glutenfree seafood meal with egg fish chicken.
+m618,r9,Meal 618,"egg,tomato,garlic",main,116.79,2026-04-17T06:35:25.057416,0,seafood,Delicious seafood meal with egg tomato garlic.
+m619,r13,Meal 619,"onion,rice,beef",starter,82.09,2026-04-15T10:35:25.057437,0,kidfriendly,Delicious kidfriendly meal with onion rice beef.
+m620,r25,Meal 620,"onion,cheese,bread",drink,188.18,2026-04-16T21:35:25.057457,0,"seafood,lowcal",Delicious seafood lowcal meal with onion cheese bread.
+m621,r10,Meal 621,"tomato,cheese,rice",main,42.81,2026-04-14T23:35:25.057479,1,"spicy,vegetarian,dessert",Delicious spicy vegetarian dessert meal with tomato cheese rice.
+m622,r43,Meal 622,"rice,chicken,tomato",main,187.32,2026-04-14T17:35:25.057502,0,"seafood,kidfriendly,vegetarian",Delicious seafood kidfriendly vegetarian meal with rice chicken tomato.
+m623,r19,Meal 623,"chicken,bread,beef",main,44.66,2026-04-18T08:35:25.057523,1,kidfriendly,Delicious kidfriendly meal with chicken bread beef.
+m624,r55,Meal 624,"potato,beef,tomato",drink,87.92,2026-04-16T13:35:25.057543,1,"kidfriendly,dessert,spicy",Delicious kidfriendly dessert spicy meal with potato beef tomato.
+m625,r61,Meal 625,"potato,beef,onion",starter,191.96,2026-04-18T01:35:25.057570,0,"seafood,dessert",Delicious seafood dessert meal with potato beef onion.
+m626,r19,Meal 626,"fish,cheese,beef",drink,137.38,2026-04-16T13:35:25.057595,0,"glutenfree,kidfriendly",Delicious glutenfree kidfriendly meal with fish cheese beef.
+m627,r4,Meal 627,"egg,lettuce,tomato",starter,88.84,2026-04-16T20:35:25.057616,0,"kidfriendly,dessert",Delicious kidfriendly dessert meal with egg lettuce tomato.
+m628,r2,Meal 628,"bread,potato,tomato",dessert,79.12,2026-04-13T14:35:25.057636,0,kidfriendly,Delicious kidfriendly meal with bread potato tomato.
+m629,r33,Meal 629,"garlic,cheese,fish",main,199.23,2026-04-15T16:35:25.057657,0,"vegan,seafood,glutenfree",Delicious vegan seafood glutenfree meal with garlic cheese fish.
+m630,r36,Meal 630,"egg,fish,onion",drink,108.25,2026-04-16T22:35:25.057679,1,"vegan,glutenfree,lowcal",Delicious vegan glutenfree lowcal meal with egg fish onion.
+m631,r70,Meal 631,"bread,chicken,onion",starter,147.02,2026-04-18T08:35:25.057700,0,vegan,Delicious vegan meal with bread chicken onion.
+m632,r17,Meal 632,"beef,chicken,fish",main,76.56,2026-04-16T23:35:25.057721,0,lowcal,Delicious lowcal meal with beef chicken fish.
+m633,r25,Meal 633,"garlic,bread,rice",dessert,112.94,2026-04-18T09:35:25.057743,1,"vegan,dessert,lowcal",Delicious vegan dessert lowcal meal with garlic bread rice.
+m634,r54,Meal 634,"potato,rice,cheese",starter,99.81,2026-04-14T00:35:25.057770,0,"vegan,vegetarian,kidfriendly",Delicious vegan vegetarian kidfriendly meal with potato rice cheese.
+m635,r78,Meal 635,"lettuce,rice,chicken",dessert,120.9,2026-04-15T05:35:25.057793,0,glutenfree,Delicious glutenfree meal with lettuce rice chicken.
+m636,r44,Meal 636,"beef,egg,garlic",main,53.42,2026-04-14T13:35:25.057814,0,"vegetarian,kidfriendly",Delicious vegetarian kidfriendly meal with beef egg garlic.
+m637,r22,Meal 637,"garlic,bread,fish",starter,75.4,2026-04-14T00:35:25.057835,0,halal,Delicious halal meal with garlic bread fish.
+m638,r17,Meal 638,"egg,cheese,rice",starter,121.71,2026-04-15T01:35:25.057858,1,"vegan,lowcal",Delicious vegan lowcal meal with egg cheese rice.
+m639,r29,Meal 639,"tomato,rice,cheese",drink,67.62,2026-04-14T23:35:25.057879,1,seafood,Delicious seafood meal with tomato rice cheese.
+m640,r46,Meal 640,"garlic,potato,fish",starter,26.61,2026-04-18T00:35:25.057900,1,"dessert,glutenfree,lowcal",Delicious dessert glutenfree lowcal meal with garlic potato fish.
+m641,r20,Meal 641,"garlic,egg,cheese",dessert,145.94,2026-04-14T16:35:25.057927,0,"halal,lowcal,spicy",Delicious halal lowcal spicy meal with garlic egg cheese.
+m642,r12,Meal 642,"fish,cheese,chicken",main,113.07,2026-04-18T12:35:25.057970,0,"halal,seafood,vegetarian",Delicious halal seafood vegetarian meal with fish cheese chicken.
+m643,r61,Meal 643,"onion,bread,garlic",drink,138.49,2026-04-16T14:35:25.057995,0,kidfriendly,Delicious kidfriendly meal with onion bread garlic.
+m644,r42,Meal 644,"chicken,rice,lettuce",dessert,80.6,2026-04-16T02:35:25.058055,0,"vegetarian,dessert,lowcal",Delicious vegetarian dessert lowcal meal with chicken rice lettuce.
+m645,r24,Meal 645,"fish,potato,rice",main,99.02,2026-04-17T14:35:25.058083,1,"seafood,spicy",Delicious seafood spicy meal with fish potato rice.
+m646,r76,Meal 646,"tomato,cheese,bread",dessert,106.86,2026-04-16T18:35:25.058109,1,"lowcal,glutenfree,halal",Delicious lowcal glutenfree halal meal with tomato cheese bread.
+m647,r39,Meal 647,"potato,beef,lettuce",dessert,191.72,2026-04-15T20:35:25.058170,1,halal,Delicious halal meal with potato beef lettuce.
+m648,r76,Meal 648,"potato,rice,cheese",starter,191.27,2026-04-18T07:35:25.058191,0,spicy,Delicious spicy meal with potato rice cheese.
+m649,r17,Meal 649,"cheese,rice,bread",drink,49.76,2026-04-16T00:35:25.058212,0,"dessert,vegan,kidfriendly",Delicious dessert vegan kidfriendly meal with cheese rice bread.
+m650,r19,Meal 650,"cheese,egg,beef",starter,174.4,2026-04-14T13:35:25.058268,1,spicy,Delicious spicy meal with cheese egg beef.
+m651,r12,Meal 651,"potato,bread,chicken",starter,82.05,2026-04-16T03:35:25.058316,1,"halal,spicy,dessert",Delicious halal spicy dessert meal with potato bread chicken.
+m652,r71,Meal 652,"garlic,lettuce,fish",starter,157.35,2026-04-17T08:35:25.058344,0,"lowcal,halal,kidfriendly",Delicious lowcal halal kidfriendly meal with garlic lettuce fish.
+m653,r50,Meal 653,"rice,lettuce,bread",dessert,167.56,2026-04-18T08:35:25.058371,1,dessert,Delicious dessert meal with rice lettuce bread.
+m654,r77,Meal 654,"bread,fish,onion",starter,179.41,2026-04-13T17:35:25.058392,0,"glutenfree,vegetarian",Delicious glutenfree vegetarian meal with bread fish onion.
+m655,r31,Meal 655,"potato,chicken,onion",drink,184.63,2026-04-16T18:35:25.058415,0,"dessert,glutenfree",Delicious dessert glutenfree meal with potato chicken onion.
+m656,r18,Meal 656,"tomato,cheese,lettuce",dessert,89.13,2026-04-14T01:35:25.058437,0,"halal,vegan",Delicious halal vegan meal with tomato cheese lettuce.
+m657,r55,Meal 657,"cheese,lettuce,fish",dessert,192.53,2026-04-13T18:35:25.058457,1,seafood,Delicious seafood meal with cheese lettuce fish.
+m658,r23,Meal 658,"garlic,potato,beef",main,82.33,2026-04-16T01:35:25.058476,0,lowcal,Delicious lowcal meal with garlic potato beef.
+m659,r52,Meal 659,"bread,rice,onion",drink,143.53,2026-04-16T06:35:25.058496,0,spicy,Delicious spicy meal with bread rice onion.
+m660,r63,Meal 660,"chicken,cheese,lettuce",main,128.65,2026-04-14T23:35:25.058516,1,"lowcal,glutenfree,kidfriendly",Delicious lowcal glutenfree kidfriendly meal with chicken cheese lettuce.
+m661,r65,Meal 661,"potato,bread,beef",starter,196.53,2026-04-17T18:35:25.058538,1,"kidfriendly,dessert",Delicious kidfriendly dessert meal with potato bread beef.
+m662,r11,Meal 662,"bread,onion,cheese",drink,98.28,2026-04-14T15:35:25.058625,1,vegan,Delicious vegan meal with bread onion cheese.
+m663,r37,Meal 663,"fish,egg,bread",dessert,65.42,2026-04-13T20:35:25.058659,0,vegetarian,Delicious vegetarian meal with fish egg bread.
+m664,r38,Meal 664,"cheese,rice,egg",drink,23.15,2026-04-15T11:35:25.062195,0,glutenfree,Delicious glutenfree meal with cheese rice egg.
+m665,r39,Meal 665,"egg,chicken,potato",drink,64.75,2026-04-17T12:35:25.062250,0,"vegan,vegetarian,spicy",Delicious vegan vegetarian spicy meal with egg chicken potato.
+m666,r69,Meal 666,"egg,rice,fish",dessert,82.17,2026-04-15T21:35:25.062275,1,spicy,Delicious spicy meal with egg rice fish.
+m667,r80,Meal 667,"onion,fish,chicken",dessert,87.1,2026-04-13T23:35:25.062299,0,glutenfree,Delicious glutenfree meal with onion fish chicken.
+m668,r78,Meal 668,"egg,beef,bread",dessert,96.06,2026-04-18T12:35:25.062330,0,"vegetarian,lowcal,seafood",Delicious vegetarian lowcal seafood meal with egg beef bread.
+m669,r24,Meal 669,"lettuce,beef,tomato",dessert,199.09,2026-04-16T15:35:25.062374,0,"seafood,vegetarian,lowcal",Delicious seafood vegetarian lowcal meal with lettuce beef tomato.
+m670,r7,Meal 670,"lettuce,cheese,rice",main,128.83,2026-04-15T01:35:25.062401,0,"kidfriendly,halal",Delicious kidfriendly halal meal with lettuce cheese rice.
+m671,r37,Meal 671,"tomato,chicken,lettuce",starter,69.46,2026-04-17T02:35:25.062424,1,"vegan,lowcal",Delicious vegan lowcal meal with tomato chicken lettuce.
+m672,r77,Meal 672,"tomato,chicken,bread",main,130.05,2026-04-14T18:35:25.062448,1,"dessert,vegetarian,kidfriendly",Delicious dessert vegetarian kidfriendly meal with tomato chicken bread.
+m673,r76,Meal 673,"fish,potato,chicken",dessert,77.54,2026-04-15T09:35:25.063602,1,"dessert,lowcal",Delicious dessert lowcal meal with fish potato chicken.
+m674,r20,Meal 674,"potato,rice,lettuce",drink,25.81,2026-04-14T22:35:25.063917,0,"kidfriendly,halal",Delicious kidfriendly halal meal with potato rice lettuce.
+m675,r63,Meal 675,"egg,potato,bread",dessert,155.15,2026-04-15T04:35:25.063950,1,"dessert,vegetarian,kidfriendly",Delicious dessert vegetarian kidfriendly meal with egg potato bread.
+m676,r60,Meal 676,"onion,egg,rice",dessert,121.68,2026-04-16T21:35:25.063974,1,spicy,Delicious spicy meal with onion egg rice.
+m677,r3,Meal 677,"tomato,lettuce,potato",drink,129.28,2026-04-14T06:35:25.063998,0,"glutenfree,kidfriendly",Delicious glutenfree kidfriendly meal with tomato lettuce potato.
+m678,r13,Meal 678,"beef,onion,cheese",starter,158.04,2026-04-14T12:35:25.064055,1,"halal,glutenfree",Delicious halal glutenfree meal with beef onion cheese.
+m679,r71,Meal 679,"lettuce,onion,cheese",dessert,133.45,2026-04-15T06:35:25.064092,0,"dessert,halal",Delicious dessert halal meal with lettuce onion cheese.
+m680,r65,Meal 680,"lettuce,fish,garlic",drink,48.25,2026-04-15T02:35:25.064117,0,"glutenfree,lowcal,vegetarian",Delicious glutenfree lowcal vegetarian meal with lettuce fish garlic.
+m681,r52,Meal 681,"fish,garlic,rice",main,89.0,2026-04-17T05:35:25.064400,1,"vegan,dessert",Delicious vegan dessert meal with fish garlic rice.
+m682,r54,Meal 682,"onion,tomato,rice",main,127.92,2026-04-16T20:35:25.064463,1,"halal,vegan",Delicious halal vegan meal with onion tomato rice.
+m683,r3,Meal 683,"onion,garlic,fish",main,191.33,2026-04-17T05:35:25.064541,0,"halal,spicy",Delicious halal spicy meal with onion garlic fish.
+m684,r77,Meal 684,"rice,fish,bread",starter,51.54,2026-04-17T10:35:25.064570,0,"lowcal,halal,glutenfree",Delicious lowcal halal glutenfree meal with rice fish bread.
+m685,r42,Meal 685,"beef,chicken,tomato",drink,102.65,2026-04-16T15:35:25.064596,1,seafood,Delicious seafood meal with beef chicken tomato.
+m686,r31,Meal 686,"potato,garlic,beef",dessert,176.98,2026-04-17T20:35:25.064616,0,kidfriendly,Delicious kidfriendly meal with potato garlic beef.
+m687,r32,Meal 687,"egg,chicken,lettuce",drink,175.19,2026-04-18T04:35:25.064638,0,"vegetarian,vegan",Delicious vegetarian vegan meal with egg chicken lettuce.
+m688,r54,Meal 688,"egg,onion,potato",main,98.93,2026-04-17T09:35:25.064663,0,"glutenfree,vegetarian",Delicious glutenfree vegetarian meal with egg onion potato.
+m689,r38,Meal 689,"lettuce,potato,fish",main,38.65,2026-04-15T20:35:25.064688,0,"vegan,dessert",Delicious vegan dessert meal with lettuce potato fish.
+m690,r75,Meal 690,"bread,lettuce,egg",starter,163.2,2026-04-14T08:35:25.064711,0,spicy,Delicious spicy meal with bread lettuce egg.
+m691,r34,Meal 691,"garlic,beef,fish",drink,155.45,2026-04-18T09:35:25.064738,0,dessert,Delicious dessert meal with garlic beef fish.
+m692,r44,Meal 692,"fish,cheese,onion",main,157.04,2026-04-15T01:35:25.064777,0,"kidfriendly,dessert",Delicious kidfriendly dessert meal with fish cheese onion.
+m693,r67,Meal 693,"bread,onion,egg",dessert,75.2,2026-04-17T09:35:25.064798,0,"vegan,halal",Delicious vegan halal meal with bread onion egg.
+m694,r73,Meal 694,"fish,garlic,cheese",starter,46.37,2026-04-14T09:35:25.064819,0,"seafood,kidfriendly,dessert",Delicious seafood kidfriendly dessert meal with fish garlic cheese.
+m695,r50,Meal 695,"tomato,onion,cheese",main,66.7,2026-04-14T08:35:25.064843,1,"halal,vegan",Delicious halal vegan meal with tomato onion cheese.
+m696,r62,Meal 696,"rice,onion,potato",dessert,88.04,2026-04-15T06:35:25.064864,1,"spicy,dessert,kidfriendly",Delicious spicy dessert kidfriendly meal with rice onion potato.
+m697,r22,Meal 697,"lettuce,chicken,beef",starter,75.68,2026-04-15T09:35:25.064883,0,"kidfriendly,spicy,halal",Delicious kidfriendly spicy halal meal with lettuce chicken beef.
+m698,r20,Meal 698,"bread,fish,garlic",main,171.2,2026-04-16T14:35:25.064903,0,"vegetarian,halal",Delicious vegetarian halal meal with bread fish garlic.
+m699,r26,Meal 699,"garlic,beef,bread",main,68.87,2026-04-16T06:35:25.064927,0,"vegan,lowcal",Delicious vegan lowcal meal with garlic beef bread.
+m700,r8,Meal 700,"tomato,cheese,rice",starter,61.1,2026-04-17T06:35:25.064951,1,"glutenfree,halal",Delicious glutenfree halal meal with tomato cheese rice.
+m701,r23,Meal 701,"potato,cheese,beef",starter,152.0,2026-04-17T13:35:25.064973,0,seafood,Delicious seafood meal with potato cheese beef.
+m702,r17,Meal 702,"tomato,egg,onion",drink,103.57,2026-04-17T15:35:25.065135,0,"seafood,vegan,vegetarian",Delicious seafood vegan vegetarian meal with tomato egg onion.
+m703,r41,Meal 703,"beef,fish,egg",starter,37.98,2026-04-16T02:35:25.065402,0,"vegetarian,halal,kidfriendly",Delicious vegetarian halal kidfriendly meal with beef fish egg.
+m704,r77,Meal 704,"onion,lettuce,beef",drink,159.93,2026-04-17T10:35:25.065474,0,"seafood,vegan",Delicious seafood vegan meal with onion lettuce beef.
+m705,r76,Meal 705,"lettuce,onion,cheese",starter,79.16,2026-04-16T05:35:25.065509,1,"kidfriendly,vegan,spicy",Delicious kidfriendly vegan spicy meal with lettuce onion cheese.
+m706,r66,Meal 706,"potato,tomato,bread",dessert,132.67,2026-04-15T01:35:25.065535,0,"seafood,glutenfree",Delicious seafood glutenfree meal with potato tomato bread.
+m707,r24,Meal 707,"potato,fish,garlic",starter,31.8,2026-04-14T10:35:25.065564,1,"vegan,dessert",Delicious vegan dessert meal with potato fish garlic.
+m708,r39,Meal 708,"bread,garlic,potato",starter,54.85,2026-04-17T23:35:25.065594,0,kidfriendly,Delicious kidfriendly meal with bread garlic potato.
+m709,r30,Meal 709,"potato,cheese,bread",drink,38.53,2026-04-17T16:35:25.065612,0,seafood,Delicious seafood meal with potato cheese bread.
+m710,r79,Meal 710,"bread,rice,tomato",drink,161.45,2026-04-17T16:35:25.065639,0,spicy,Delicious spicy meal with bread rice tomato.
+m711,r79,Meal 711,"fish,garlic,onion",drink,160.36,2026-04-17T18:35:25.065659,0,"spicy,dessert,seafood",Delicious spicy dessert seafood meal with fish garlic onion.
+m712,r30,Meal 712,"bread,rice,cheese",dessert,169.26,2026-04-15T08:35:25.065687,0,"kidfriendly,seafood",Delicious kidfriendly seafood meal with bread rice cheese.
+m713,r58,Meal 713,"lettuce,chicken,egg",drink,83.65,2026-04-13T21:35:25.065711,0,"lowcal,glutenfree",Delicious lowcal glutenfree meal with lettuce chicken egg.
+m714,r59,Meal 714,"tomato,garlic,cheese",dessert,24.26,2026-04-15T03:35:25.065731,1,"vegan,halal",Delicious vegan halal meal with tomato garlic cheese.
+m715,r49,Meal 715,"tomato,onion,potato",dessert,39.23,2026-04-15T22:35:25.065810,0,"glutenfree,halal",Delicious glutenfree halal meal with tomato onion potato.
+m716,r21,Meal 716,"chicken,garlic,lettuce",drink,64.97,2026-04-17T06:35:25.065869,1,"kidfriendly,glutenfree",Delicious kidfriendly glutenfree meal with chicken garlic lettuce.
+m717,r8,Meal 717,"garlic,bread,cheese",dessert,98.86,2026-04-16T10:35:25.065898,0,vegan,Delicious vegan meal with garlic bread cheese.
+m718,r15,Meal 718,"bread,lettuce,rice",starter,126.17,2026-04-18T05:35:25.065920,0,"spicy,vegetarian",Delicious spicy vegetarian meal with bread lettuce rice.
+m719,r72,Meal 719,"tomato,bread,onion",dessert,120.2,2026-04-16T11:35:25.065966,0,kidfriendly,Delicious kidfriendly meal with tomato bread onion.
+m720,r3,Meal 720,"egg,bread,garlic",drink,154.51,2026-04-18T09:35:25.065992,0,vegetarian,Delicious vegetarian meal with egg bread garlic.
+m721,r24,Meal 721,"fish,bread,garlic",dessert,65.96,2026-04-14T15:35:25.066013,0,"kidfriendly,halal",Delicious kidfriendly halal meal with fish bread garlic.
+m722,r18,Meal 722,"lettuce,egg,fish",main,169.7,2026-04-17T20:35:25.066057,0,lowcal,Delicious lowcal meal with lettuce egg fish.
+m723,r66,Meal 723,"chicken,potato,bread",drink,70.88,2026-04-17T19:35:25.066082,0,"vegan,lowcal",Delicious vegan lowcal meal with chicken potato bread.
+m724,r9,Meal 724,"beef,potato,rice",main,123.31,2026-04-17T20:35:25.066130,1,"vegetarian,glutenfree,seafood",Delicious vegetarian glutenfree seafood meal with beef potato rice.
+m725,r79,Meal 725,"garlic,lettuce,cheese",drink,180.08,2026-04-16T01:35:25.066184,0,"halal,vegetarian,lowcal",Delicious halal vegetarian lowcal meal with garlic lettuce cheese.
+m726,r43,Meal 726,"garlic,onion,bread",drink,180.09,2026-04-16T00:35:25.066234,1,spicy,Delicious spicy meal with garlic onion bread.
+m727,r74,Meal 727,"chicken,egg,tomato",drink,47.09,2026-04-15T07:35:25.066261,0,"vegan,lowcal",Delicious vegan lowcal meal with chicken egg tomato.
+m728,r75,Meal 728,"garlic,tomato,onion",dessert,180.78,2026-04-18T12:35:25.066287,0,"dessert,kidfriendly,glutenfree",Delicious dessert kidfriendly glutenfree meal with garlic tomato onion.
+m729,r25,Meal 729,"cheese,rice,beef",main,160.3,2026-04-13T17:35:25.066339,0,halal,Delicious halal meal with cheese rice beef.
+m730,r9,Meal 730,"garlic,tomato,egg",starter,96.37,2026-04-15T04:35:25.066365,0,"dessert,halal",Delicious dessert halal meal with garlic tomato egg.
+m731,r30,Meal 731,"chicken,rice,fish",drink,24.58,2026-04-14T05:35:25.066388,0,dessert,Delicious dessert meal with chicken rice fish.
+m732,r49,Meal 732,"fish,lettuce,tomato",drink,126.24,2026-04-14T16:35:25.066439,0,kidfriendly,Delicious kidfriendly meal with fish lettuce tomato.
+m733,r12,Meal 733,"onion,potato,beef",starter,41.66,2026-04-14T10:35:25.066462,1,glutenfree,Delicious glutenfree meal with onion potato beef.
+m734,r78,Meal 734,"tomato,egg,beef",dessert,106.04,2026-04-17T20:35:25.066518,0,"dessert,lowcal",Delicious dessert lowcal meal with tomato egg beef.
+m735,r59,Meal 735,"lettuce,egg,garlic",main,83.84,2026-04-18T03:35:25.066545,0,vegan,Delicious vegan meal with lettuce egg garlic.
+m736,r9,Meal 736,"egg,beef,lettuce",drink,22.85,2026-04-18T06:35:25.066567,0,"seafood,halal",Delicious seafood halal meal with egg beef lettuce.
+m737,r42,Meal 737,"tomato,rice,onion",starter,113.35,2026-04-13T15:35:25.066602,0,spicy,Delicious spicy meal with tomato rice onion.
+m738,r61,Meal 738,"onion,tomato,cheese",drink,168.19,2026-04-15T13:35:25.066626,1,vegan,Delicious vegan meal with onion tomato cheese.
+m739,r23,Meal 739,"rice,garlic,egg",main,161.58,2026-04-15T12:35:25.066646,0,glutenfree,Delicious glutenfree meal with rice garlic egg.
+m740,r64,Meal 740,"lettuce,garlic,bread",dessert,131.94,2026-04-18T10:35:25.066687,0,seafood,Delicious seafood meal with lettuce garlic bread.
+m741,r4,Meal 741,"chicken,rice,lettuce",drink,157.25,2026-04-13T19:35:25.066712,0,"vegan,kidfriendly",Delicious vegan kidfriendly meal with chicken rice lettuce.
+m742,r21,Meal 742,"bread,tomato,beef",main,40.23,2026-04-15T19:35:25.066734,1,vegan,Delicious vegan meal with bread tomato beef.
+m743,r60,Meal 743,"rice,onion,chicken",drink,104.51,2026-04-15T05:35:25.066781,0,"glutenfree,kidfriendly",Delicious glutenfree kidfriendly meal with rice onion chicken.
+m744,r17,Meal 744,"onion,garlic,beef",drink,154.77,2026-04-16T03:35:25.066811,0,"glutenfree,dessert",Delicious glutenfree dessert meal with onion garlic beef.
+m745,r17,Meal 745,"rice,egg,tomato",main,153.77,2026-04-17T02:35:25.066832,1,glutenfree,Delicious glutenfree meal with rice egg tomato.
+m746,r37,Meal 746,"cheese,rice,egg",drink,140.3,2026-04-15T08:35:25.066875,0,"vegetarian,halal,glutenfree",Delicious vegetarian halal glutenfree meal with cheese rice egg.
+m747,r17,Meal 747,"garlic,rice,onion",main,154.63,2026-04-17T12:35:25.066901,1,"lowcal,dessert",Delicious lowcal dessert meal with garlic rice onion.
+m748,r7,Meal 748,"chicken,rice,egg",starter,49.14,2026-04-18T00:35:25.066923,0,spicy,Delicious spicy meal with chicken rice egg.
+m749,r2,Meal 749,"bread,tomato,onion",drink,198.69,2026-04-15T17:35:25.066944,1,"kidfriendly,glutenfree,lowcal",Delicious kidfriendly glutenfree lowcal meal with bread tomato onion.
+m750,r80,Meal 750,"beef,cheese,potato",dessert,80.71,2026-04-18T12:35:25.066989,0,"glutenfree,kidfriendly",Delicious glutenfree kidfriendly meal with beef cheese potato.
+m751,r33,Meal 751,"garlic,beef,bread",dessert,31.36,2026-04-17T15:35:25.067014,0,"kidfriendly,glutenfree",Delicious kidfriendly glutenfree meal with garlic beef bread.
+m752,r55,Meal 752,"tomato,fish,beef",dessert,42.73,2026-04-14T05:35:25.067040,0,"vegan,spicy,glutenfree",Delicious vegan spicy glutenfree meal with tomato fish beef.
+m753,r40,Meal 753,"potato,rice,lettuce",starter,45.51,2026-04-17T22:35:25.067085,0,"lowcal,vegetarian",Delicious lowcal vegetarian meal with potato rice lettuce.
+m754,r3,Meal 754,"potato,onion,rice",main,164.05,2026-04-16T14:35:25.067106,0,dessert,Delicious dessert meal with potato onion rice.
+m755,r70,Meal 755,"rice,bread,egg",starter,134.28,2026-04-14T02:35:25.067148,0,glutenfree,Delicious glutenfree meal with rice bread egg.
+m756,r20,Meal 756,"chicken,lettuce,cheese",drink,180.87,2026-04-15T15:35:25.067174,1,"lowcal,halal,spicy",Delicious lowcal halal spicy meal with chicken lettuce cheese.
+m757,r42,Meal 757,"chicken,beef,cheese",dessert,57.58,2026-04-17T08:35:25.067195,0,seafood,Delicious seafood meal with chicken beef cheese.
+m758,r8,Meal 758,"fish,rice,tomato",starter,136.3,2026-04-15T16:35:25.082565,1,"spicy,glutenfree",Delicious spicy glutenfree meal with fish rice tomato.
+m759,r76,Meal 759,"bread,beef,tomato",starter,180.67,2026-04-15T01:35:25.082628,0,halal,Delicious halal meal with bread beef tomato.
+m760,r75,Meal 760,"rice,garlic,cheese",dessert,21.94,2026-04-17T15:35:25.082660,0,"spicy,halal,kidfriendly",Delicious spicy halal kidfriendly meal with rice garlic cheese.
+m761,r67,Meal 761,"garlic,onion,fish",drink,73.79,2026-04-14T19:35:25.082683,0,"glutenfree,vegetarian",Delicious glutenfree vegetarian meal with garlic onion fish.
+m762,r70,Meal 762,"egg,bread,cheese",drink,170.84,2026-04-13T19:35:25.082716,0,"kidfriendly,spicy,vegan",Delicious kidfriendly spicy vegan meal with egg bread cheese.
+m763,r15,Meal 763,"rice,fish,cheese",main,35.94,2026-04-14T18:35:25.082745,0,"kidfriendly,lowcal,seafood",Delicious kidfriendly lowcal seafood meal with rice fish cheese.
+m764,r31,Meal 764,"chicken,garlic,beef",dessert,171.62,2026-04-18T04:35:25.082768,0,"kidfriendly,lowcal,halal",Delicious kidfriendly lowcal halal meal with chicken garlic beef.
+m765,r33,Meal 765,"garlic,cheese,bread",main,38.2,2026-04-14T00:35:25.082790,1,"glutenfree,dessert,halal",Delicious glutenfree dessert halal meal with garlic cheese bread.
+m766,r32,Meal 766,"lettuce,garlic,cheese",drink,120.92,2026-04-14T03:35:25.082815,1,"kidfriendly,halal,seafood",Delicious kidfriendly halal seafood meal with lettuce garlic cheese.
+m767,r78,Meal 767,"beef,onion,egg",main,41.15,2026-04-16T15:35:25.082838,0,"lowcal,vegan,seafood",Delicious lowcal vegan seafood meal with beef onion egg.
+m768,r47,Meal 768,"egg,chicken,bread",drink,173.4,2026-04-17T00:35:25.082859,0,"lowcal,glutenfree,dessert",Delicious lowcal glutenfree dessert meal with egg chicken bread.
+m769,r52,Meal 769,"onion,rice,chicken",dessert,37.78,2026-04-16T22:35:25.082896,1,"lowcal,vegan,vegetarian",Delicious lowcal vegan vegetarian meal with onion rice chicken.
+m770,r4,Meal 770,"garlic,bread,egg",dessert,100.28,2026-04-14T21:35:25.082919,0,"kidfriendly,seafood,spicy",Delicious kidfriendly seafood spicy meal with garlic bread egg.
+m771,r42,Meal 771,"tomato,potato,garlic",dessert,153.33,2026-04-17T00:35:25.082944,0,"seafood,spicy",Delicious seafood spicy meal with tomato potato garlic.
+m772,r23,Meal 772,"bread,onion,potato",starter,76.98,2026-04-17T12:35:25.082965,0,"vegetarian,dessert",Delicious vegetarian dessert meal with bread onion potato.
+m773,r13,Meal 773,"onion,fish,rice",drink,56.39,2026-04-17T14:35:25.082990,1,"vegetarian,lowcal,spicy",Delicious vegetarian lowcal spicy meal with onion fish rice.
+m774,r45,Meal 774,"rice,egg,bread",main,54.16,2026-04-13T16:35:25.083011,0,"kidfriendly,dessert",Delicious kidfriendly dessert meal with rice egg bread.
+m775,r65,Meal 775,"potato,egg,rice",main,55.75,2026-04-15T16:35:25.083035,0,"glutenfree,seafood,lowcal",Delicious glutenfree seafood lowcal meal with potato egg rice.
+m776,r77,Meal 776,"egg,bread,potato",drink,43.95,2026-04-15T11:35:25.083060,1,"lowcal,seafood,vegetarian",Delicious lowcal seafood vegetarian meal with egg bread potato.
+m777,r14,Meal 777,"tomato,fish,chicken",starter,140.15,2026-04-14T21:35:25.083081,0,"seafood,vegetarian,spicy",Delicious seafood vegetarian spicy meal with tomato fish chicken.
+m778,r4,Meal 778,"tomato,egg,fish",starter,46.17,2026-04-17T00:35:25.083102,0,"halal,glutenfree",Delicious halal glutenfree meal with tomato egg fish.
+m779,r32,Meal 779,"fish,lettuce,potato",starter,94.22,2026-04-16T12:35:25.083121,1,kidfriendly,Delicious kidfriendly meal with fish lettuce potato.
+m780,r74,Meal 780,"cheese,lettuce,bread",starter,77.63,2026-04-15T12:35:25.083150,0,"seafood,dessert",Delicious seafood dessert meal with cheese lettuce bread.
+m781,r10,Meal 781,"egg,tomato,potato",starter,37.39,2026-04-16T16:35:25.083172,1,"spicy,dessert,lowcal",Delicious spicy dessert lowcal meal with egg tomato potato.
+m782,r69,Meal 782,"egg,bread,potato",starter,103.75,2026-04-17T23:35:25.083201,0,"vegetarian,halal",Delicious vegetarian halal meal with egg bread potato.
+m783,r59,Meal 783,"lettuce,beef,rice",drink,120.62,2026-04-13T16:35:25.083231,0,"kidfriendly,glutenfree,seafood",Delicious kidfriendly glutenfree seafood meal with lettuce beef rice.
+m784,r45,Meal 784,"garlic,bread,beef",dessert,122.56,2026-04-17T10:35:25.083254,0,"spicy,vegetarian",Delicious spicy vegetarian meal with garlic bread beef.
+m785,r77,Meal 785,"lettuce,tomato,fish",dessert,79.5,2026-04-15T05:35:25.083276,1,"lowcal,spicy",Delicious lowcal spicy meal with lettuce tomato fish.
+m786,r19,Meal 786,"chicken,bread,onion",main,130.49,2026-04-14T05:35:25.083300,1,"dessert,vegan,seafood",Delicious dessert vegan seafood meal with chicken bread onion.
+m787,r21,Meal 787,"rice,egg,chicken",drink,151.16,2026-04-17T01:35:25.083322,0,"halal,glutenfree,seafood",Delicious halal glutenfree seafood meal with rice egg chicken.
+m788,r12,Meal 788,"onion,garlic,lettuce",drink,88.63,2026-04-17T21:35:25.083343,1,lowcal,Delicious lowcal meal with onion garlic lettuce.
+m789,r18,Meal 789,"cheese,bread,rice",drink,178.23,2026-04-17T08:35:25.083363,1,"spicy,vegetarian",Delicious spicy vegetarian meal with cheese bread rice.
+m790,r12,Meal 790,"lettuce,tomato,garlic",main,81.15,2026-04-15T10:35:25.083385,0,seafood,Delicious seafood meal with lettuce tomato garlic.
+m791,r68,Meal 791,"potato,chicken,bread",starter,20.31,2026-04-14T02:35:25.083407,0,"vegan,glutenfree",Delicious vegan glutenfree meal with potato chicken bread.
+m792,r1,Meal 792,"chicken,onion,garlic",main,192.03,2026-04-15T13:35:25.083428,0,"lowcal,seafood",Delicious lowcal seafood meal with chicken onion garlic.
+m793,r80,Meal 793,"bread,beef,rice",dessert,123.32,2026-04-16T18:35:25.083452,1,"spicy,halal",Delicious spicy halal meal with bread beef rice.
+m794,r23,Meal 794,"onion,chicken,potato",main,165.3,2026-04-18T07:35:25.083475,0,"spicy,kidfriendly,vegan",Delicious spicy kidfriendly vegan meal with onion chicken potato.
+m795,r38,Meal 795,"garlic,rice,onion",starter,182.04,2026-04-16T08:35:25.083500,1,dessert,Delicious dessert meal with garlic rice onion.
+m796,r25,Meal 796,"garlic,potato,lettuce",drink,189.92,2026-04-17T18:35:25.083521,0,"spicy,dessert,halal",Delicious spicy dessert halal meal with garlic potato lettuce.
+m797,r44,Meal 797,"rice,tomato,fish",drink,27.49,2026-04-14T14:35:25.083549,0,dessert,Delicious dessert meal with rice tomato fish.
+m798,r62,Meal 798,"garlic,bread,potato",drink,156.25,2026-04-16T14:35:25.083670,0,"vegetarian,glutenfree,dessert",Delicious vegetarian glutenfree dessert meal with garlic bread potato.
+m799,r37,Meal 799,"tomato,cheese,lettuce",drink,87.87,2026-04-15T17:35:25.083696,1,"spicy,kidfriendly",Delicious spicy kidfriendly meal with tomato cheese lettuce.
+m800,r4,Meal 800,"potato,fish,onion",dessert,109.57,2026-04-15T15:35:25.083717,0,"vegetarian,dessert",Delicious vegetarian dessert meal with potato fish onion.
+m801,r8,Meal 801,"cheese,onion,garlic",starter,135.37,2026-04-16T11:35:25.083746,0,"vegan,halal,glutenfree",Delicious vegan halal glutenfree meal with cheese onion garlic.
+m802,r69,Meal 802,"cheese,lettuce,tomato",main,168.27,2026-04-15T11:35:25.083770,1,vegan,Delicious vegan meal with cheese lettuce tomato.
+m803,r66,Meal 803,"egg,chicken,tomato",drink,190.99,2026-04-14T02:35:25.083790,0,"spicy,dessert,kidfriendly",Delicious spicy dessert kidfriendly meal with egg chicken tomato.
+m804,r41,Meal 804,"fish,tomato,onion",main,28.14,2026-04-16T23:35:25.083810,1,halal,Delicious halal meal with fish tomato onion.
+m805,r27,Meal 805,"tomato,garlic,bread",drink,168.78,2026-04-14T12:35:25.083835,0,"vegetarian,seafood,vegan",Delicious vegetarian seafood vegan meal with tomato garlic bread.
+m806,r52,Meal 806,"rice,onion,tomato",dessert,178.75,2026-04-16T21:35:25.083856,1,spicy,Delicious spicy meal with rice onion tomato.
+m807,r74,Meal 807,"egg,cheese,lettuce",main,94.86,2026-04-17T06:35:25.083879,1,"seafood,halal,dessert",Delicious seafood halal dessert meal with egg cheese lettuce.
+m808,r49,Meal 808,"cheese,onion,chicken",drink,27.52,2026-04-16T22:35:25.083900,1,"halal,kidfriendly",Delicious halal kidfriendly meal with cheese onion chicken.
+m809,r17,Meal 809,"beef,egg,rice",drink,31.97,2026-04-18T09:35:25.083921,0,"halal,vegetarian,dessert",Delicious halal vegetarian dessert meal with beef egg rice.
+m810,r22,Meal 810,"potato,cheese,garlic",dessert,39.53,2026-04-18T03:35:25.083962,0,"seafood,lowcal,spicy",Delicious seafood lowcal spicy meal with potato cheese garlic.
+m811,r51,Meal 811,"potato,fish,tomato",main,104.41,2026-04-14T06:35:25.083985,0,vegetarian,Delicious vegetarian meal with potato fish tomato.
+m812,r15,Meal 812,"lettuce,rice,beef",main,63.52,2026-04-17T15:35:25.084009,0,vegan,Delicious vegan meal with lettuce rice beef.
+m813,r57,Meal 813,"chicken,garlic,potato",starter,158.34,2026-04-17T16:35:25.084031,0,"spicy,kidfriendly,seafood",Delicious spicy kidfriendly seafood meal with chicken garlic potato.
+m814,r6,Meal 814,"cheese,rice,bread",starter,182.28,2026-04-16T01:35:25.084056,0,"vegan,spicy,kidfriendly",Delicious vegan spicy kidfriendly meal with cheese rice bread.
+m815,r51,Meal 815,"potato,beef,tomato",starter,80.46,2026-04-14T13:35:25.084076,1,"spicy,seafood",Delicious spicy seafood meal with potato beef tomato.
+m816,r4,Meal 816,"onion,potato,cheese",starter,45.81,2026-04-16T13:35:25.084104,0,"vegetarian,halal",Delicious vegetarian halal meal with onion potato cheese.
+m817,r8,Meal 817,"lettuce,potato,garlic",starter,150.33,2026-04-13T16:35:25.084126,0,vegetarian,Delicious vegetarian meal with lettuce potato garlic.
+m818,r48,Meal 818,"beef,garlic,tomato",drink,20.62,2026-04-13T14:35:25.084148,0,spicy,Delicious spicy meal with beef garlic tomato.
+m819,r50,Meal 819,"garlic,chicken,onion",main,23.56,2026-04-16T11:35:25.084167,1,"vegetarian,halal,lowcal",Delicious vegetarian halal lowcal meal with garlic chicken onion.
+m820,r74,Meal 820,"onion,lettuce,fish",starter,142.92,2026-04-18T10:35:25.084188,0,"lowcal,seafood,dessert",Delicious lowcal seafood dessert meal with onion lettuce fish.
+m821,r45,Meal 821,"fish,potato,bread",starter,71.64,2026-04-14T18:35:25.084244,0,"kidfriendly,glutenfree,vegetarian",Delicious kidfriendly glutenfree vegetarian meal with fish potato bread.
+m822,r50,Meal 822,"egg,chicken,lettuce",dessert,45.92,2026-04-17T21:35:25.084269,1,"spicy,dessert",Delicious spicy dessert meal with egg chicken lettuce.
+m823,r53,Meal 823,"rice,garlic,bread",drink,95.81,2026-04-14T16:35:25.084326,1,"glutenfree,halal,kidfriendly",Delicious glutenfree halal kidfriendly meal with rice garlic bread.
+m824,r59,Meal 824,"fish,bread,garlic",drink,43.96,2026-04-15T07:35:25.084521,0,"kidfriendly,glutenfree,halal",Delicious kidfriendly glutenfree halal meal with fish bread garlic.
+m825,r32,Meal 825,"onion,tomato,egg",drink,118.68,2026-04-15T12:35:25.084557,1,halal,Delicious halal meal with onion tomato egg.
+m826,r48,Meal 826,"rice,fish,beef",drink,74.06,2026-04-16T11:35:25.084604,1,"seafood,halal,kidfriendly",Delicious seafood halal kidfriendly meal with rice fish beef.
+m827,r7,Meal 827,"bread,potato,rice",drink,188.68,2026-04-17T02:35:25.084631,1,halal,Delicious halal meal with bread potato rice.
+m828,r24,Meal 828,"lettuce,onion,rice",starter,135.42,2026-04-15T00:35:25.084655,0,"vegan,halal",Delicious vegan halal meal with lettuce onion rice.
+m829,r20,Meal 829,"tomato,rice,fish",main,141.71,2026-04-15T06:35:25.084677,0,"dessert,kidfriendly",Delicious dessert kidfriendly meal with tomato rice fish.
+m830,r11,Meal 830,"chicken,bread,beef",dessert,56.54,2026-04-15T06:35:25.084699,0,vegan,Delicious vegan meal with chicken bread beef.
+m831,r28,Meal 831,"onion,bread,egg",drink,105.52,2026-04-18T09:35:25.084969,0,"vegetarian,dessert",Delicious vegetarian dessert meal with onion bread egg.
+m832,r38,Meal 832,"rice,egg,lettuce",drink,48.49,2026-04-14T05:35:25.085145,1,"vegetarian,spicy",Delicious vegetarian spicy meal with rice egg lettuce.
+m833,r36,Meal 833,"rice,fish,beef",main,44.41,2026-04-17T14:35:25.085192,1,"halal,vegetarian,dessert",Delicious halal vegetarian dessert meal with rice fish beef.
+m834,r61,Meal 834,"chicken,onion,bread",drink,125.28,2026-04-18T13:35:25.085263,0,"kidfriendly,spicy",Delicious kidfriendly spicy meal with chicken onion bread.
+m835,r58,Meal 835,"garlic,onion,bread",dessert,197.81,2026-04-18T07:35:25.085303,0,kidfriendly,Delicious kidfriendly meal with garlic onion bread.
+m836,r9,Meal 836,"onion,cheese,lettuce",starter,39.97,2026-04-18T11:35:25.085325,0,spicy,Delicious spicy meal with onion cheese lettuce.
+m837,r42,Meal 837,"onion,fish,chicken",drink,198.51,2026-04-16T21:35:25.085352,0,"vegetarian,dessert",Delicious vegetarian dessert meal with onion fish chicken.
+m838,r33,Meal 838,"cheese,potato,chicken",dessert,183.05,2026-04-16T04:35:25.085380,0,glutenfree,Delicious glutenfree meal with cheese potato chicken.
+m839,r31,Meal 839,"lettuce,bread,chicken",drink,138.69,2026-04-15T00:35:25.085403,0,"seafood,glutenfree,halal",Delicious seafood glutenfree halal meal with lettuce bread chicken.
+m840,r71,Meal 840,"onion,chicken,egg",dessert,88.52,2026-04-13T16:35:25.085425,1,spicy,Delicious spicy meal with onion chicken egg.
+m841,r49,Meal 841,"egg,lettuce,bread",drink,93.3,2026-04-15T12:35:25.085452,0,"vegan,seafood",Delicious vegan seafood meal with egg lettuce bread.
+m842,r17,Meal 842,"fish,cheese,garlic",drink,185.38,2026-04-14T00:35:25.085471,0,"seafood,halal",Delicious seafood halal meal with fish cheese garlic.
+m843,r41,Meal 843,"rice,beef,tomato",starter,87.21,2026-04-13T23:35:25.085493,0,"vegetarian,vegan,lowcal",Delicious vegetarian vegan lowcal meal with rice beef tomato.
+m844,r74,Meal 844,"beef,chicken,garlic",dessert,176.63,2026-04-17T12:35:25.085513,0,vegetarian,Delicious vegetarian meal with beef chicken garlic.
+m845,r20,Meal 845,"garlic,beef,onion",main,146.75,2026-04-14T05:35:25.085538,0,"kidfriendly,dessert,lowcal",Delicious kidfriendly dessert lowcal meal with garlic beef onion.
+m846,r11,Meal 846,"egg,beef,chicken",starter,57.84,2026-04-15T21:35:25.085559,0,vegetarian,Delicious vegetarian meal with egg beef chicken.
+m847,r50,Meal 847,"fish,tomato,egg",starter,104.46,2026-04-16T19:35:25.085580,0,"glutenfree,halal",Delicious glutenfree halal meal with fish tomato egg.
+m848,r57,Meal 848,"chicken,beef,rice",dessert,45.9,2026-04-14T15:35:25.085601,0,glutenfree,Delicious glutenfree meal with chicken beef rice.
+m849,r16,Meal 849,"bread,tomato,rice",dessert,128.28,2026-04-15T16:35:25.085888,0,"vegetarian,halal,glutenfree",Delicious vegetarian halal glutenfree meal with bread tomato rice.
+m850,r28,Meal 850,"egg,tomato,potato",dessert,70.66,2026-04-13T14:35:25.086079,0,"seafood,dessert",Delicious seafood dessert meal with egg tomato potato.
+m851,r9,Meal 851,"fish,bread,chicken",drink,34.39,2026-04-16T21:35:25.086119,1,vegetarian,Delicious vegetarian meal with fish bread chicken.
+m852,r2,Meal 852,"bread,garlic,onion",main,122.46,2026-04-17T04:35:25.086144,0,"vegetarian,dessert,seafood",Delicious vegetarian dessert seafood meal with bread garlic onion.
+m853,r58,Meal 853,"fish,cheese,egg",starter,61.06,2026-04-15T06:35:25.086167,0,"kidfriendly,dessert",Delicious kidfriendly dessert meal with fish cheese egg.
+m854,r6,Meal 854,"fish,bread,lettuce",drink,101.39,2026-04-16T01:35:25.086201,0,"dessert,lowcal,halal",Delicious dessert lowcal halal meal with fish bread lettuce.
+m855,r50,Meal 855,"bread,lettuce,rice",dessert,22.51,2026-04-15T17:35:25.086227,0,"vegan,spicy",Delicious vegan spicy meal with bread lettuce rice.
+m856,r20,Meal 856,"chicken,lettuce,fish",dessert,80.72,2026-04-14T09:35:25.086250,0,"spicy,halal,vegan",Delicious spicy halal vegan meal with chicken lettuce fish.
+m857,r64,Meal 857,"potato,cheese,tomato",drink,129.23,2026-04-14T14:35:25.086270,1,"spicy,seafood",Delicious spicy seafood meal with potato cheese tomato.
+m858,r56,Meal 858,"garlic,chicken,bread",main,191.53,2026-04-14T03:35:25.086293,1,"spicy,kidfriendly",Delicious spicy kidfriendly meal with garlic chicken bread.
+m859,r78,Meal 859,"potato,fish,tomato",drink,22.33,2026-04-15T19:35:25.086313,0,"spicy,halal",Delicious spicy halal meal with potato fish tomato.
+m860,r21,Meal 860,"onion,beef,egg",dessert,81.4,2026-04-14T06:35:25.086393,0,"seafood,lowcal",Delicious seafood lowcal meal with onion beef egg.
+m861,r17,Meal 861,"chicken,fish,bread",starter,57.7,2026-04-15T19:35:25.086434,0,"kidfriendly,vegetarian",Delicious kidfriendly vegetarian meal with chicken fish bread.
+m862,r30,Meal 862,"potato,bread,onion",dessert,145.7,2026-04-17T19:35:25.086465,0,"kidfriendly,seafood",Delicious kidfriendly seafood meal with potato bread onion.
+m863,r42,Meal 863,"tomato,fish,onion",main,76.42,2026-04-16T02:35:25.086492,0,"halal,glutenfree,lowcal",Delicious halal glutenfree lowcal meal with tomato fish onion.
+m864,r50,Meal 864,"beef,potato,fish",dessert,32.05,2026-04-16T01:35:25.086513,1,dessert,Delicious dessert meal with beef potato fish.
+m865,r25,Meal 865,"chicken,fish,tomato",main,78.9,2026-04-14T18:35:25.086535,1,"spicy,dessert",Delicious spicy dessert meal with chicken fish tomato.
+m866,r72,Meal 866,"bread,fish,egg",starter,168.34,2026-04-16T19:35:25.086560,0,seafood,Delicious seafood meal with bread fish egg.
+m867,r77,Meal 867,"chicken,tomato,potato",dessert,64.68,2026-04-17T20:35:25.086594,1,"vegetarian,seafood,dessert",Delicious vegetarian seafood dessert meal with chicken tomato potato.
+m868,r55,Meal 868,"tomato,rice,cheese",main,137.29,2026-04-13T17:35:25.086618,1,"vegan,seafood,spicy",Delicious vegan seafood spicy meal with tomato rice cheese.
+m869,r11,Meal 869,"fish,garlic,lettuce",starter,126.89,2026-04-16T13:35:25.086643,0,"kidfriendly,spicy",Delicious kidfriendly spicy meal with fish garlic lettuce.
+m870,r14,Meal 870,"tomato,onion,fish",starter,125.57,2026-04-15T02:35:25.086667,0,"kidfriendly,seafood",Delicious kidfriendly seafood meal with tomato onion fish.
+m871,r3,Meal 871,"bread,potato,fish",starter,76.75,2026-04-15T13:35:25.087168,1,vegan,Delicious vegan meal with bread potato fish.
+m872,r71,Meal 872,"garlic,bread,lettuce",dessert,130.35,2026-04-14T12:35:25.087198,0,lowcal,Delicious lowcal meal with garlic bread lettuce.
+m873,r37,Meal 873,"egg,rice,fish",main,45.18,2026-04-13T22:35:25.087223,0,"vegan,glutenfree",Delicious vegan glutenfree meal with egg rice fish.
+m874,r67,Meal 874,"beef,bread,garlic",main,94.28,2026-04-15T09:35:25.087246,0,halal,Delicious halal meal with beef bread garlic.
+m875,r64,Meal 875,"potato,lettuce,garlic",starter,118.66,2026-04-17T06:35:25.087271,0,"glutenfree,vegan",Delicious glutenfree vegan meal with potato lettuce garlic.
+m876,r27,Meal 876,"cheese,tomato,garlic",main,29.45,2026-04-13T21:35:25.087293,0,"spicy,vegetarian",Delicious spicy vegetarian meal with cheese tomato garlic.
+m877,r62,Meal 877,"tomato,egg,rice",starter,110.11,2026-04-18T05:35:25.087320,0,vegan,Delicious vegan meal with tomato egg rice.
+m878,r50,Meal 878,"cheese,fish,chicken",drink,119.01,2026-04-17T03:35:25.087343,0,"lowcal,vegan,seafood",Delicious lowcal vegan seafood meal with cheese fish chicken.
+m879,r26,Meal 879,"onion,fish,chicken",main,124.68,2026-04-15T10:35:25.087368,0,"vegan,halal,vegetarian",Delicious vegan halal vegetarian meal with onion fish chicken.
+m880,r66,Meal 880,"tomato,rice,potato",dessert,67.82,2026-04-13T14:35:25.087397,0,lowcal,Delicious lowcal meal with tomato rice potato.
+m881,r66,Meal 881,"onion,cheese,bread",dessert,181.63,2026-04-14T15:35:25.087420,1,"spicy,halal",Delicious spicy halal meal with onion cheese bread.
+m882,r16,Meal 882,"fish,onion,potato",drink,56.83,2026-04-17T16:35:25.087445,0,"seafood,kidfriendly,vegan",Delicious seafood kidfriendly vegan meal with fish onion potato.
+m883,r6,Meal 883,"tomato,onion,cheese",starter,179.6,2026-04-18T00:35:25.087468,0,"vegetarian,halal",Delicious vegetarian halal meal with tomato onion cheese.
+m884,r47,Meal 884,"onion,cheese,tomato",main,75.78,2026-04-16T07:35:25.087490,0,"vegan,halal",Delicious vegan halal meal with onion cheese tomato.
+m885,r24,Meal 885,"egg,lettuce,bread",drink,128.33,2026-04-16T00:35:25.087514,0,"halal,kidfriendly",Delicious halal kidfriendly meal with egg lettuce bread.
+m886,r63,Meal 886,"garlic,tomato,beef",main,179.19,2026-04-16T20:35:25.087537,0,"glutenfree,seafood",Delicious glutenfree seafood meal with garlic tomato beef.
+m887,r80,Meal 887,"cheese,chicken,egg",drink,151.17,2026-04-15T22:35:25.087558,0,vegan,Delicious vegan meal with cheese chicken egg.
+m888,r13,Meal 888,"tomato,garlic,egg",dessert,33.7,2026-04-15T20:35:25.087593,1,dessert,Delicious dessert meal with tomato garlic egg.
+m889,r3,Meal 889,"cheese,rice,egg",starter,41.66,2026-04-16T00:35:25.087615,0,"vegan,vegetarian",Delicious vegan vegetarian meal with cheese rice egg.
+m890,r61,Meal 890,"beef,egg,tomato",dessert,68.61,2026-04-16T00:35:25.087636,1,vegan,Delicious vegan meal with beef egg tomato.
+m891,r9,Meal 891,"lettuce,garlic,egg",main,109.54,2026-04-13T17:35:25.087661,1,"spicy,halal,vegan",Delicious spicy halal vegan meal with lettuce garlic egg.
+m892,r53,Meal 892,"onion,chicken,beef",dessert,147.78,2026-04-17T16:35:25.087682,1,vegan,Delicious vegan meal with onion chicken beef.
+m893,r26,Meal 893,"tomato,egg,fish",main,199.25,2026-04-17T21:35:25.087701,0,"vegan,seafood",Delicious vegan seafood meal with tomato egg fish.
+m894,r73,Meal 894,"tomato,chicken,cheese",main,127.65,2026-04-15T12:35:25.087722,1,"glutenfree,kidfriendly",Delicious glutenfree kidfriendly meal with tomato chicken cheese.
+m895,r61,Meal 895,"bread,potato,garlic",dessert,152.34,2026-04-14T08:35:25.087745,0,"spicy,dessert,kidfriendly",Delicious spicy dessert kidfriendly meal with bread potato garlic.
+m896,r53,Meal 896,"bread,fish,egg",dessert,46.57,2026-04-17T16:35:25.087765,1,lowcal,Delicious lowcal meal with bread fish egg.
+m897,r70,Meal 897,"beef,onion,cheese",starter,79.9,2026-04-18T07:35:25.087786,0,"dessert,lowcal",Delicious dessert lowcal meal with beef onion cheese.
+m898,r60,Meal 898,"chicken,bread,potato",starter,127.78,2026-04-18T11:35:25.087806,0,"glutenfree,spicy",Delicious glutenfree spicy meal with chicken bread potato.
+m899,r74,Meal 899,"egg,lettuce,beef",drink,178.53,2026-04-17T23:35:25.087835,0,halal,Delicious halal meal with egg lettuce beef.
+m900,r67,Meal 900,"cheese,potato,rice",starter,143.12,2026-04-17T12:35:25.087857,0,vegan,Delicious vegan meal with cheese potato rice.
+m901,r63,Meal 901,"egg,bread,potato",drink,114.16,2026-04-18T13:35:25.087882,1,dessert,Delicious dessert meal with egg bread potato.
+m902,r29,Meal 902,"beef,tomato,fish",starter,148.92,2026-04-14T09:35:25.087907,0,"dessert,lowcal,glutenfree",Delicious dessert lowcal glutenfree meal with beef tomato fish.
+m903,r64,Meal 903,"egg,cheese,tomato",drink,74.51,2026-04-17T14:35:25.087934,0,vegetarian,Delicious vegetarian meal with egg cheese tomato.
+m904,r70,Meal 904,"chicken,egg,cheese",starter,53.43,2026-04-14T05:35:25.087956,0,"vegetarian,halal,vegan",Delicious vegetarian halal vegan meal with chicken egg cheese.
+m905,r9,Meal 905,"lettuce,bread,egg",dessert,81.77,2026-04-13T15:35:25.087976,0,"kidfriendly,vegetarian",Delicious kidfriendly vegetarian meal with lettuce bread egg.
+m906,r27,Meal 906,"garlic,onion,egg",drink,195.86,2026-04-13T19:35:25.088005,1,"lowcal,kidfriendly",Delicious lowcal kidfriendly meal with garlic onion egg.
+m907,r41,Meal 907,"egg,fish,lettuce",main,96.09,2026-04-17T14:35:25.088029,0,"vegan,seafood",Delicious vegan seafood meal with egg fish lettuce.
+m908,r63,Meal 908,"chicken,fish,beef",dessert,117.87,2026-04-16T02:35:25.088052,0,lowcal,Delicious lowcal meal with chicken fish beef.
+m909,r32,Meal 909,"egg,bread,tomato",drink,26.18,2026-04-16T19:35:25.088075,0,"vegetarian,kidfriendly,halal",Delicious vegetarian kidfriendly halal meal with egg bread tomato.
+m910,r71,Meal 910,"lettuce,beef,chicken",starter,126.82,2026-04-17T05:35:25.088103,0,"kidfriendly,halal,seafood",Delicious kidfriendly halal seafood meal with lettuce beef chicken.
+m911,r65,Meal 911,"fish,cheese,onion",main,65.58,2026-04-15T15:35:25.088124,0,"vegetarian,spicy",Delicious vegetarian spicy meal with fish cheese onion.
+m912,r67,Meal 912,"cheese,rice,chicken",dessert,96.81,2026-04-15T03:35:25.088144,0,"spicy,kidfriendly",Delicious spicy kidfriendly meal with cheese rice chicken.
+m913,r10,Meal 913,"fish,tomato,chicken",starter,159.04,2026-04-15T15:35:25.088165,0,kidfriendly,Delicious kidfriendly meal with fish tomato chicken.
+m914,r39,Meal 914,"bread,garlic,onion",drink,61.17,2026-04-18T02:35:25.088184,1,halal,Delicious halal meal with bread garlic onion.
+m915,r15,Meal 915,"rice,egg,onion",main,98.86,2026-04-16T14:35:25.088204,0,spicy,Delicious spicy meal with rice egg onion.
+m916,r56,Meal 916,"egg,bread,potato",drink,105.26,2026-04-14T03:35:25.088223,0,glutenfree,Delicious glutenfree meal with egg bread potato.
+m917,r56,Meal 917,"beef,cheese,bread",drink,111.28,2026-04-16T02:35:25.088246,0,"lowcal,vegetarian,vegan",Delicious lowcal vegetarian vegan meal with beef cheese bread.
+m918,r18,Meal 918,"rice,beef,onion",starter,100.3,2026-04-14T13:35:25.088266,0,vegan,Delicious vegan meal with rice beef onion.
+m919,r72,Meal 919,"garlic,rice,onion",main,120.74,2026-04-15T18:35:25.088293,0,"kidfriendly,vegetarian",Delicious kidfriendly vegetarian meal with garlic rice onion.
+m920,r26,Meal 920,"rice,lettuce,chicken",main,111.84,2026-04-15T13:35:25.088316,0,seafood,Delicious seafood meal with rice lettuce chicken.
+m921,r15,Meal 921,"rice,bread,tomato",drink,164.22,2026-04-18T04:35:25.088343,0,"seafood,vegan,spicy",Delicious seafood vegan spicy meal with rice bread tomato.
+m922,r61,Meal 922,"beef,rice,lettuce",main,46.3,2026-04-16T12:35:25.088371,0,"kidfriendly,halal",Delicious kidfriendly halal meal with beef rice lettuce.
+m923,r66,Meal 923,"fish,potato,beef",starter,64.47,2026-04-16T14:35:25.088394,1,vegetarian,Delicious vegetarian meal with fish potato beef.
+m924,r47,Meal 924,"lettuce,chicken,egg",dessert,160.51,2026-04-13T19:35:25.088417,0,seafood,Delicious seafood meal with lettuce chicken egg.
+m925,r25,Meal 925,"onion,tomato,rice",drink,136.29,2026-04-16T03:35:25.088451,0,"dessert,lowcal,halal",Delicious dessert lowcal halal meal with onion tomato rice.
+m926,r31,Meal 926,"beef,lettuce,onion",drink,31.94,2026-04-13T17:35:25.088479,0,"glutenfree,seafood,halal",Delicious glutenfree seafood halal meal with beef lettuce onion.
+m927,r19,Meal 927,"lettuce,cheese,fish",dessert,74.63,2026-04-17T01:35:25.088505,0,"vegan,dessert,spicy",Delicious vegan dessert spicy meal with lettuce cheese fish.
+m928,r40,Meal 928,"lettuce,onion,potato",starter,104.48,2026-04-18T12:35:25.088531,0,"glutenfree,kidfriendly",Delicious glutenfree kidfriendly meal with lettuce onion potato.
+m929,r63,Meal 929,"cheese,garlic,egg",dessert,177.46,2026-04-18T13:35:25.088551,0,"glutenfree,vegetarian",Delicious glutenfree vegetarian meal with cheese garlic egg.
+m930,r41,Meal 930,"bread,cheese,tomato",dessert,113.18,2026-04-17T23:35:25.088573,1,"halal,glutenfree",Delicious halal glutenfree meal with bread cheese tomato.
+m931,r36,Meal 931,"onion,rice,cheese",dessert,148.27,2026-04-14T14:35:25.088792,0,"lowcal,halal",Delicious lowcal halal meal with onion rice cheese.
+m932,r27,Meal 932,"beef,cheese,tomato",dessert,52.95,2026-04-14T16:35:25.088823,1,"glutenfree,spicy",Delicious glutenfree spicy meal with beef cheese tomato.
+m933,r48,Meal 933,"fish,cheese,onion",dessert,46.34,2026-04-16T00:35:25.088847,0,lowcal,Delicious lowcal meal with fish cheese onion.
+m934,r33,Meal 934,"potato,lettuce,chicken",starter,166.16,2026-04-13T22:35:25.088874,0,lowcal,Delicious lowcal meal with potato lettuce chicken.
+m935,r64,Meal 935,"potato,onion,lettuce",dessert,29.18,2026-04-14T15:35:25.088911,1,"glutenfree,seafood",Delicious glutenfree seafood meal with potato onion lettuce.
+m936,r63,Meal 936,"lettuce,bread,beef",starter,42.12,2026-04-14T07:35:25.088935,0,"vegetarian,kidfriendly,halal",Delicious vegetarian kidfriendly halal meal with lettuce bread beef.
+m937,r6,Meal 937,"beef,potato,garlic",starter,161.1,2026-04-15T00:35:25.088958,1,seafood,Delicious seafood meal with beef potato garlic.
+m938,r27,Meal 938,"chicken,beef,bread",dessert,71.15,2026-04-16T21:35:25.088991,0,vegan,Delicious vegan meal with chicken beef bread.
+m939,r30,Meal 939,"potato,bread,tomato",main,119.67,2026-04-14T09:35:25.089014,0,seafood,Delicious seafood meal with potato bread tomato.
+m940,r29,Meal 940,"tomato,potato,onion",starter,36.41,2026-04-13T16:35:25.089037,0,lowcal,Delicious lowcal meal with tomato potato onion.
+m941,r63,Meal 941,"tomato,lettuce,egg",drink,129.73,2026-04-14T20:35:25.089063,0,vegetarian,Delicious vegetarian meal with tomato lettuce egg.
+m942,r29,Meal 942,"tomato,garlic,cheese",drink,100.31,2026-04-15T21:35:25.089084,0,"vegetarian,vegan",Delicious vegetarian vegan meal with tomato garlic cheese.
+m943,r13,Meal 943,"egg,fish,garlic",drink,173.11,2026-04-14T09:35:25.089110,1,lowcal,Delicious lowcal meal with egg fish garlic.
+m944,r3,Meal 944,"fish,lettuce,potato",dessert,23.73,2026-04-15T09:35:25.089141,1,"seafood,halal,dessert",Delicious seafood halal dessert meal with fish lettuce potato.
+m945,r57,Meal 945,"egg,beef,onion",drink,50.31,2026-04-18T01:35:25.089168,1,"halal,dessert,vegetarian",Delicious halal dessert vegetarian meal with egg beef onion.
+m946,r27,Meal 946,"bread,lettuce,cheese",dessert,181.72,2026-04-14T21:35:25.089199,1,dessert,Delicious dessert meal with bread lettuce cheese.
+m947,r77,Meal 947,"garlic,beef,fish",main,90.0,2026-04-17T09:35:25.089223,0,"vegan,halal",Delicious vegan halal meal with garlic beef fish.
+m948,r47,Meal 948,"lettuce,fish,egg",drink,65.89,2026-04-14T01:35:25.089250,0,"vegan,kidfriendly",Delicious vegan kidfriendly meal with lettuce fish egg.
+m949,r35,Meal 949,"rice,egg,tomato",starter,172.26,2026-04-18T03:35:25.089273,1,"seafood,kidfriendly",Delicious seafood kidfriendly meal with rice egg tomato.
+m950,r47,Meal 950,"beef,rice,egg",main,65.07,2026-04-16T20:35:25.089297,0,halal,Delicious halal meal with beef rice egg.
+m951,r58,Meal 951,"rice,lettuce,cheese",starter,61.24,2026-04-18T05:35:25.089320,0,seafood,Delicious seafood meal with rice lettuce cheese.
+m952,r22,Meal 952,"beef,onion,chicken",starter,71.88,2026-04-16T15:35:25.089343,1,"vegetarian,halal,lowcal",Delicious vegetarian halal lowcal meal with beef onion chicken.
+m953,r55,Meal 953,"chicken,tomato,onion",main,32.13,2026-04-17T09:35:25.089371,0,halal,Delicious halal meal with chicken tomato onion.
+m954,r35,Meal 954,"beef,fish,potato",dessert,150.18,2026-04-17T15:35:25.089394,0,glutenfree,Delicious glutenfree meal with beef fish potato.
+m955,r69,Meal 955,"chicken,bread,rice",dessert,112.38,2026-04-17T16:35:25.089418,0,halal,Delicious halal meal with chicken bread rice.
+m956,r65,Meal 956,"rice,chicken,fish",starter,63.55,2026-04-14T09:35:25.089445,0,"vegan,lowcal,vegetarian",Delicious vegan lowcal vegetarian meal with rice chicken fish.
+m957,r74,Meal 957,"fish,rice,beef",starter,49.18,2026-04-17T09:35:25.089480,0,"kidfriendly,halal",Delicious kidfriendly halal meal with fish rice beef.
+m958,r9,Meal 958,"cheese,fish,potato",drink,141.95,2026-04-17T20:35:25.089511,1,"spicy,vegan",Delicious spicy vegan meal with cheese fish potato.
+m959,r71,Meal 959,"potato,bread,onion",drink,155.29,2026-04-16T15:35:25.089534,1,"lowcal,kidfriendly,dessert",Delicious lowcal kidfriendly dessert meal with potato bread onion.
+m960,r22,Meal 960,"chicken,tomato,beef",dessert,171.55,2026-04-16T18:35:25.089558,0,"kidfriendly,spicy,lowcal",Delicious kidfriendly spicy lowcal meal with chicken tomato beef.
+m961,r78,Meal 961,"cheese,bread,chicken",drink,55.77,2026-04-15T06:35:25.089580,0,"lowcal,glutenfree",Delicious lowcal glutenfree meal with cheese bread chicken.
+m962,r28,Meal 962,"onion,rice,cheese",starter,45.62,2026-04-15T16:35:25.089613,0,"spicy,kidfriendly",Delicious spicy kidfriendly meal with onion rice cheese.
+m963,r57,Meal 963,"fish,egg,bread",starter,103.39,2026-04-18T06:35:25.089636,1,"kidfriendly,lowcal",Delicious kidfriendly lowcal meal with fish egg bread.
+m964,r7,Meal 964,"garlic,beef,cheese",main,83.1,2026-04-15T13:35:25.089658,1,spicy,Delicious spicy meal with garlic beef cheese.
+m965,r56,Meal 965,"bread,potato,garlic",main,188.12,2026-04-16T03:35:25.089692,1,seafood,Delicious seafood meal with bread potato garlic.
+m966,r9,Meal 966,"cheese,potato,rice",main,46.27,2026-04-13T15:35:25.089716,0,"dessert,halal",Delicious dessert halal meal with cheese potato rice.
+m967,r8,Meal 967,"tomato,garlic,potato",main,100.7,2026-04-15T13:35:25.089739,0,glutenfree,Delicious glutenfree meal with tomato garlic potato.
+m968,r79,Meal 968,"cheese,bread,chicken",main,179.04,2026-04-17T20:35:25.089763,1,"dessert,glutenfree",Delicious dessert glutenfree meal with cheese bread chicken.
+m969,r56,Meal 969,"lettuce,bread,fish",dessert,45.91,2026-04-17T11:35:25.089787,0,"vegan,vegetarian,kidfriendly",Delicious vegan vegetarian kidfriendly meal with lettuce bread fish.
+m970,r12,Meal 970,"tomato,chicken,garlic",main,191.64,2026-04-15T04:35:25.089812,0,"lowcal,seafood,halal",Delicious lowcal seafood halal meal with tomato chicken garlic.
+m971,r54,Meal 971,"rice,lettuce,potato",dessert,198.28,2026-04-16T14:35:25.089835,0,"halal,lowcal,kidfriendly",Delicious halal lowcal kidfriendly meal with rice lettuce potato.
+m972,r1,Meal 972,"chicken,cheese,fish",main,59.44,2026-04-17T18:35:25.089859,0,spicy,Delicious spicy meal with chicken cheese fish.
+m973,r64,Meal 973,"garlic,fish,bread",dessert,173.11,2026-04-16T20:35:25.089882,0,vegetarian,Delicious vegetarian meal with garlic fish bread.
+m974,r74,Meal 974,"garlic,bread,potato",dessert,165.11,2026-04-14T09:35:25.089922,0,"glutenfree,dessert,kidfriendly",Delicious glutenfree dessert kidfriendly meal with garlic bread potato.
+m975,r29,Meal 975,"fish,cheese,bread",dessert,109.8,2026-04-16T07:35:25.089946,1,lowcal,Delicious lowcal meal with fish cheese bread.
+m976,r7,Meal 976,"rice,potato,tomato",starter,178.53,2026-04-18T02:35:25.089970,0,"seafood,glutenfree,vegan",Delicious seafood glutenfree vegan meal with rice potato tomato.
+m977,r60,Meal 977,"egg,potato,garlic",drink,153.65,2026-04-15T12:35:25.089998,1,vegetarian,Delicious vegetarian meal with egg potato garlic.
+m978,r73,Meal 978,"tomato,rice,onion",main,159.49,2026-04-16T03:35:25.090021,0,"seafood,vegetarian",Delicious seafood vegetarian meal with tomato rice onion.
+m979,r56,Meal 979,"lettuce,fish,chicken",dessert,41.28,2026-04-15T08:35:25.090044,0,"lowcal,spicy",Delicious lowcal spicy meal with lettuce fish chicken.
+m980,r63,Meal 980,"lettuce,egg,tomato",starter,129.9,2026-04-15T02:35:25.090072,0,"lowcal,halal",Delicious lowcal halal meal with lettuce egg tomato.
+m981,r44,Meal 981,"onion,lettuce,beef",main,34.82,2026-04-14T02:35:25.090095,0,dessert,Delicious dessert meal with onion lettuce beef.
+m982,r20,Meal 982,"egg,garlic,rice",main,104.82,2026-04-13T20:35:25.090119,0,"lowcal,kidfriendly,vegan",Delicious lowcal kidfriendly vegan meal with egg garlic rice.
+m983,r18,Meal 983,"garlic,onion,beef",starter,180.72,2026-04-13T19:35:25.090144,0,"dessert,glutenfree",Delicious dessert glutenfree meal with garlic onion beef.
+m984,r13,Meal 984,"chicken,onion,egg",starter,162.12,2026-04-17T23:35:25.090165,1,vegetarian,Delicious vegetarian meal with chicken onion egg.
+m985,r63,Meal 985,"onion,cheese,egg",main,169.72,2026-04-18T01:35:25.090187,0,seafood,Delicious seafood meal with onion cheese egg.
+m986,r18,Meal 986,"onion,cheese,rice",main,109.35,2026-04-17T00:35:25.090210,0,kidfriendly,Delicious kidfriendly meal with onion cheese rice.
+m987,r37,Meal 987,"bread,garlic,rice",drink,165.85,2026-04-17T06:35:25.090232,0,lowcal,Delicious lowcal meal with bread garlic rice.
+m988,r66,Meal 988,"lettuce,tomato,cheese",dessert,57.9,2026-04-17T03:35:25.090256,1,"seafood,lowcal",Delicious seafood lowcal meal with lettuce tomato cheese.
+m989,r20,Meal 989,"chicken,onion,beef",main,199.68,2026-04-14T08:35:25.090280,0,"spicy,vegan,kidfriendly",Delicious spicy vegan kidfriendly meal with chicken onion beef.
+m990,r20,Meal 990,"bread,egg,onion",drink,98.36,2026-04-14T20:35:25.090313,0,"vegetarian,seafood,lowcal",Delicious vegetarian seafood lowcal meal with bread egg onion.
+m991,r71,Meal 991,"garlic,chicken,bread",drink,54.47,2026-04-14T10:35:25.090338,0,"seafood,halal,kidfriendly",Delicious seafood halal kidfriendly meal with garlic chicken bread.
+m992,r7,Meal 992,"lettuce,rice,fish",drink,161.07,2026-04-16T01:35:25.090360,0,seafood,Delicious seafood meal with lettuce rice fish.
+m993,r58,Meal 993,"egg,lettuce,bread",starter,21.34,2026-04-18T11:35:25.090382,0,dessert,Delicious dessert meal with egg lettuce bread.
+m994,r33,Meal 994,"bread,rice,chicken",starter,63.2,2026-04-18T07:35:25.090404,1,"vegetarian,kidfriendly",Delicious vegetarian kidfriendly meal with bread rice chicken.
+m995,r36,Meal 995,"lettuce,chicken,garlic",dessert,148.05,2026-04-16T22:35:25.090426,0,spicy,Delicious spicy meal with lettuce chicken garlic.
+m996,r44,Meal 996,"fish,potato,tomato",starter,79.85,2026-04-14T17:35:25.090447,0,vegetarian,Delicious vegetarian meal with fish potato tomato.
+m997,r68,Meal 997,"lettuce,chicken,fish",dessert,116.98,2026-04-17T10:35:25.090479,1,"glutenfree,halal",Delicious glutenfree halal meal with lettuce chicken fish.
+m998,r6,Meal 998,"lettuce,onion,beef",drink,187.23,2026-04-16T02:35:25.090506,0,"dessert,vegan",Delicious dessert vegan meal with lettuce onion beef.
+m999,r41,Meal 999,"cheese,garlic,chicken",starter,140.32,2026-04-17T22:35:25.090540,0,"halal,kidfriendly,spicy",Delicious halal kidfriendly spicy meal with cheese garlic chicken.
+m1000,r51,Meal 1000,"chicken,tomato,fish",drink,20.41,2026-04-14T20:35:25.090564,0,"vegan,halal",Delicious vegan halal meal with chicken tomato fish.
