@@ -5,8 +5,10 @@ from datetime import datetime
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
 from sklearn.decomposition import TruncatedSVD
+from fastapi import FastAPI, Header, HTTPException
 
 app= FastAPI(title="Food Recommendation API 🍔")
+SECRET_KEY = "supersecret123"
 
 # =========================
 # LOAD DATA
@@ -168,7 +170,11 @@ def health():
     return {"status": "OK"}
 
 @app.get("/recommend/{user_id}")
-def recommend(user_id: str, topn: int = 10):
+def recommend(user_id: str, topn: int = 10, x_api_key: str = Header(None)):
+
+    # 🔐 security check
+    if x_api_key != SECRET_KEY:
+        raise HTTPException(status_code=401, detail="Unauthorized")
 
     try:
         recs = hybrid_recommend(user_id, topn)
@@ -182,6 +188,7 @@ def recommend(user_id: str, topn: int = 10):
         return {
             "error": str(e)
         }
+
 
 
 @app.get("/test-context")
